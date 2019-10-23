@@ -2619,3 +2619,781 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.23-16.51.00:494][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
 [2019.10.23-16.51.00:733][928]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMapAAD01243488D3F4285F551A7D3B350CE.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2019.10.23-16.51.01:466][928]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMap_BuiltDataBC757EC24BD14DB977450F892372FE65.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.23-16.52.06:077][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-16.52.25:241][435]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.23-16.52.49:331][208]Cmd: POLY SELECT ADJACENT ALL
+[2019.10.23-16.52.52:026][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-16.53.10:476][474]Cmd: POLY SELECT ADJACENT ALL
+[2019.10.23-16.53.12:305][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-16.53.21:199][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-16.53.24:200][ 68]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2019.10.23-16.54.01:951][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-16.55.23:600][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-16.55.23:659][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.55.23:659][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.55.23:659][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_M': Can't find file.
+[2019.10.23-16.55.23:660][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_M': Can't find file.
+[2019.10.23-16.55.23:660][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.23:660][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.23:660][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.55.23:660][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.55.23:660][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_M': Can't find file.
+[2019.10.23-16.55.23:661][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_M': Can't find file.
+[2019.10.23-16.55.23:661][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.23:661][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.23:663][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.23:663][316]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_15
+[2019.10.23-16.55.23:663][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.23:663][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.23:663][316]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_16
+[2019.10.23-16.55.23:663][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.23:663][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_M': Can't find file.
+[2019.10.23-16.55.23:663][316]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Water_M.T_Water_M Referenced by MaterialExpressionTextureSample_18
+[2019.10.23-16.55.23:664][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_M': Can't find file.
+[2019.10.23-16.55.23:664][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_M': Can't find file.
+[2019.10.23-16.55.23:664][316]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Water_M.T_Water_M Referenced by MaterialExpressionTextureSample_19
+[2019.10.23-16.55.23:664][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_M': Can't find file.
+[2019.10.23-16.55.23:664][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.55.23:664][316]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Perlin_Noise_M.T_Perlin_Noise_M Referenced by MaterialExpressionTextureSample_21
+[2019.10.23-16.55.23:664][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.55.23:665][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.23:665][316]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_6
+[2019.10.23-16.55.23:665][316]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.23:668][316]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2019.10.23-16.55.23:668][316]LogMaterial: Warning: C:\Users\kpearso1\Documents\Unreal Projects\GardenProject\Content\Materials\StarterContent\Materials\M_Water_Ocean.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.23-16.55.23:668][316]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.23-16.55.28:689][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-16.55.28:722][916]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.55.28:723][916]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.55.28:723][916]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.28:723][916]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.28:723][916]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.55.28:723][916]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.55.28:723][916]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.28:723][916]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.28:725][916]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.28:725][916]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_10
+[2019.10.23-16.55.28:725][916]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.28:726][916]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.28:726][916]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_13
+[2019.10.23-16.55.28:726][916]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.28:726][916]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.28:726][916]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_14
+[2019.10.23-16.55.28:726][916]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.28:726][916]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.28:727][916]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.28:727][916]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.28:727][916]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.28:727][916]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.55.28:727][916]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Perlin_Noise_M.T_Perlin_Noise_M Referenced by MaterialExpressionTextureSample_19
+[2019.10.23-16.55.28:727][916]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.55.28:728][916]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.28:728][916]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_9
+[2019.10.23-16.55.28:728][916]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.55.28:730][916]LogMaterial: Display: Missing cached shader map for material M_Water_Lake, compiling. 
+[2019.10.23-16.55.28:731][916]LogMaterial: Warning: C:\Users\kpearso1\Documents\Unreal Projects\GardenProject\Content\Materials\StarterContent\Materials\M_Water_Lake.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.23-16.55.28:731][916]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.23-16.55.30:587][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-16.55.30:736][148]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/StarterContent/Materials/M_Water_Ocean.M_Water_Ocean
+[2019.10.23-16.55.30:740][148]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2019.10.23-16.55.30:740][148]LogMaterial: Warning: /Engine/Transient.M_Water_Ocean (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.23-16.55.30:740][148]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.23-16.55.30:793][148]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2019.10.23-16.55.30:794][148]LogMaterial: Warning: /Engine/Transient.M_Water_Ocean (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.23-16.55.30:794][148]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.23-16.55.30:798][148]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2019.10.23-16.55.30:798][148]LogMaterial: Warning: /Engine/Transient.M_Water_Ocean (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.23-16.55.30:798][148]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.23-16.55.30:806][148]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2019.10.23-16.55.30:814][148]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2019.10.23-16.55.30:814][148]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.10.23-16.55.30:814][148]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.10.23-16.55.30:814][148]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.10.23-16.55.30:814][148]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2019.10.23-16.55.30:817][148]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2019.10.23-16.55.30:819][148]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2019.10.23-16.55.30:822][148]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2019.10.23-16.55.30:824][148]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_22, compiling. 
+[2019.10.23-16.55.30:831][148]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2019.10.23-16.55.30:834][148]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2019.10.23-16.55.30:836][148]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2019.10.23-16.55.30:843][148]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_4, compiling. 
+[2019.10.23-16.55.30:869][148]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2019.10.23-16.55.31:340][173]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2019.10.23-16.55.31:340][173]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2019.10.23-16.55.31:474][182]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2019.10.23-16.55.31:474][182]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2019.10.23-16.55.31:735][198]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.10.23-16.55.31:735][198]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.10.23-16.55.31:785][200]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.10.23-16.55.31:827][204]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.10.23-16.55.32:133][225]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2019.10.23-16.55.32:146][226]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.10.23-16.55.32:159][227]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.10.23-16.55.32:172][228]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.10.23-16.55.34:318][401]LogSlate: Window 'M_Water_Ocean' being destroyed
+[2019.10.23-16.55.34:322][401]LogSlate: Window 'M_Water_Ocean' being destroyed
+[2019.10.23-16.55.34:348][401]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.10.23-16.55.35:364][521]Cmd: TRANSACTION UNDO
+[2019.10.23-16.55.35:364][521]LogEditorTransaction: Undo Create Actors
+[2019.10.23-16.55.35:368][521]LogPhysics: Error: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_353, Buffer: b23f2430, Index Count: 0, Element: 59
+[2019.10.23-16.55.35:368][521]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_353' invalid (4396 verts, 0 indices).
+[2019.10.23-16.55.35:368][521]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_353.BodySetup_0 when we are unable to.
+[2019.10.23-16.55.35:839][569]Cmd: TRANSACTION UNDO
+[2019.10.23-16.55.35:839][569]LogEditorTransaction: Undo Select Brush Surface
+[2019.10.23-16.55.36:797][675]Cmd: TRANSACTION UNDO
+[2019.10.23-16.55.36:797][675]LogEditorTransaction: Undo Create Actors
+[2019.10.23-16.55.38:962][907]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/StarterContent/Materials/M_Water_Ocean.M_Water_Ocean
+[2019.10.23-16.55.38:966][907]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.10.23-16.55.38:967][907]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.23-16.55.38:967][907]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.23-16.55.39:017][907]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.10.23-16.55.39:018][907]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.23-16.55.39:018][907]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.23-16.55.39:021][907]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2019.10.23-16.55.39:022][907]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.23-16.55.39:022][907]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.23-16.55.39:027][907]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2019.10.23-16.55.39:034][907]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2019.10.23-16.55.39:036][907]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2019.10.23-16.55.39:039][907]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2019.10.23-16.55.39:039][907]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.10.23-16.55.39:039][907]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.10.23-16.55.39:039][907]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.10.23-16.55.39:039][907]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2019.10.23-16.55.39:042][907]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2019.10.23-16.55.39:044][907]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_22, compiling. 
+[2019.10.23-16.55.39:051][907]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2019.10.23-16.55.39:054][907]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2019.10.23-16.55.39:057][907]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2019.10.23-16.55.39:066][907]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_4, compiling. 
+[2019.10.23-16.55.39:090][907]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2019.10.23-16.55.39:347][918]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2019.10.23-16.55.39:376][920]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2019.10.23-16.55.39:422][923]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.10.23-16.55.39:442][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2019.10.23-16.55.39:760][943]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.10.23-16.55.39:760][943]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2019.10.23-16.55.39:774][944]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2019.10.23-16.55.39:809][947]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.10.23-16.55.40:084][966]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2019.10.23-16.55.40:119][969]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.10.23-16.55.40:141][971]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.10.23-16.55.40:141][971]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.10.23-16.55.47:181][661]LogMaterialEditor: Saving and Compiling material M_Water_Ocean
+[2019.10.23-16.55.47:233][661]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/M_Water_OceanF3485F844E289516C7C60F9980DB32CA.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset'
+[2019.10.23-16.55.48:490][769]LogSlate: Window 'M_Water_Ocean' being destroyed
+[2019.10.23-16.55.48:495][769]LogSlate: Window 'M_Water_Ocean' being destroyed
+[2019.10.23-16.55.48:513][769]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.10.23-16.56.25:077][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.10.23-16.56.26:315][557]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.23-16.56.26:384][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.10.23-16.56.26:410][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.10.23-16.56.26:433][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.10.23-16.56.27:500][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.10.23-16.56.28:528][682]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.23-16.56.28:582][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.10.23-16.56.28:609][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.10.23-16.56.28:633][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.10.23-16.56.51:604][ 11]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.56.51:604][ 11]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.56.51:604][ 11]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.56.51:604][ 11]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.56.51:604][ 11]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.56.51:604][ 11]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.56.51:605][ 11]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.56.51:605][ 11]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.56.51:606][ 11]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.56.51:607][ 11]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.56.51:607][ 11]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.56.51:607][ 11]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.56.51:607][ 11]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.56.51:607][ 11]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.56.51:608][ 11]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.56.51:608][ 11]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.56.51:608][ 11]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.56.51:608][ 11]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.56.51:608][ 11]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.56.51:609][ 11]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.56.51:609][ 11]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.56.51:609][ 11]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Lake.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.56.51:612][ 11]LogMaterial: Display: Missing cached shader map for material M_Water_Lake, compiling. 
+[2019.10.23-16.56.51:612][ 11]LogMaterial: Warning: C:\Users\kpearso1\Documents\Unreal Projects\GardenProject\Content\Materials\StarterContent\Materials\M_Water_Lake.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.23-16.56.51:612][ 11]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.23-16.56.51:619][ 11]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/StarterContent/Materials/M_Water_Lake.M_Water_Lake
+[2019.10.23-16.56.51:622][ 11]LogMaterial: Display: Missing cached shader map for material M_Water_Lake, compiling. 
+[2019.10.23-16.56.51:623][ 11]LogMaterial: Warning: /Engine/Transient.M_Water_Lake (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.23-16.56.51:623][ 11]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.23-16.56.51:673][ 11]LogMaterial: Display: Missing cached shader map for material M_Water_Lake, compiling. 
+[2019.10.23-16.56.51:674][ 11]LogMaterial: Warning: /Engine/Transient.M_Water_Lake (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.23-16.56.51:674][ 11]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.23-16.56.51:677][ 11]LogMaterial: Display: Missing cached shader map for material M_Water_Lake, compiling. 
+[2019.10.23-16.56.51:678][ 11]LogMaterial: Warning: /Engine/Transient.M_Water_Lake (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.23-16.56.51:678][ 11]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.23-16.56.51:686][ 11]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2019.10.23-16.56.51:689][ 11]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2019.10.23-16.56.51:691][ 11]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.23-16.56.51:698][ 11]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2019.10.23-16.56.51:700][ 11]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2019.10.23-16.56.51:702][ 11]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2019.10.23-16.56.51:702][ 11]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.10.23-16.56.51:702][ 11]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.10.23-16.56.51:702][ 11]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.10.23-16.56.51:702][ 11]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2019.10.23-16.56.51:705][ 11]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2019.10.23-16.56.51:707][ 11]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2019.10.23-16.56.51:710][ 11]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2019.10.23-16.56.51:717][ 11]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_3, compiling. 
+[2019.10.23-16.56.51:736][ 11]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2019.10.23-16.56.52:325][ 50]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.10.23-16.56.52:341][ 51]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.10.23-16.56.52:413][ 56]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.10.23-16.56.52:484][ 61]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.10.23-16.56.52:722][ 76]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2019.10.23-16.56.52:722][ 76]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.10.23-16.56.52:733][ 77]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.10.23-16.56.52:807][ 83]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.10.23-16.56.59:911][821]LogSlate: Window 'M_Water_Lake' being destroyed
+[2019.10.23-16.56.59:915][821]LogSlate: Window 'M_Water_Lake' being destroyed
+[2019.10.23-16.56.59:935][821]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.10.23-16.57.04:308][314]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.23-16.57.15:872][488]Cmd: EDIT COPY
+[2019.10.23-16.57.16:911][612]Cmd: EDIT PASTE
+[2019.10.23-16.57.46:650][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-16.57.46:701][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.57.46:701][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.57.46:701][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_M': Can't find file.
+[2019.10.23-16.57.46:702][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_M': Can't find file.
+[2019.10.23-16.57.46:702][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.57.46:702][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.57.46:702][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.57.46:702][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.57.46:702][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_M': Can't find file.
+[2019.10.23-16.57.46:703][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_M': Can't find file.
+[2019.10.23-16.57.46:703][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.57.46:703][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.57.46:704][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.57.46:705][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.57.46:705][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.57.46:705][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.57.46:705][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_M': Can't find file.
+[2019.10.23-16.57.46:705][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_M': Can't find file.
+[2019.10.23-16.57.46:705][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_M': Can't find file.
+[2019.10.23-16.57.46:706][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_M': Can't find file.
+[2019.10.23-16.57.46:706][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.57.46:706][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2019.10.23-16.57.46:706][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.57.46:706][ 61]LogLinker: Warning: While loading '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/StarterContent/Materials/M_Water_Ocean.uasset' failed to load '/Game/StarterContent/Textures/T_Water_N': Can't find file.
+[2019.10.23-16.57.46:709][ 61]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2019.10.23-16.57.46:710][ 61]LogMaterial: Warning: C:\Users\kpearso1\Documents\Unreal Projects\GardenProject\Content\Materials\StarterContent\Materials\M_Water_Ocean.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.23-16.57.46:710][ 61]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.10.23-16.57.58:665][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.10.23-16.57.59:997][473]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.23-16.58.00:012][473]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Materials/StarterContent/Materials/M_Water_Ocean.M_Water_Ocean
+[2019.10.23-16.58.00:815][473]LogPhysics: Error: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_677, Buffer: 0, Index Count: 0, Element: 68
+[2019.10.23-16.58.00:815][473]LogPhysics: Error: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_677, Buffer: 0, Index Count: 0, Element: 69
+[2019.10.23-16.58.00:981][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.10.23-16.58.01:007][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.10.23-16.58.01:028][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.10.23-16.58.01:954][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.10.23-16.58.03:237][577]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.23-16.58.03:291][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.10.23-16.58.03:315][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.10.23-16.58.03:338][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.10.23-16.58.21:521][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.10.23-16.58.22:847][160]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.23-16.58.22:913][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.10.23-16.58.22:935][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.10.23-16.58.22:958][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.10.23-16.58.22:983][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.10.23-16.58.23:007][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.10.23-17.01.08:770][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-17.01.15:841][614]Cmd: POLY SELECT ADJACENT ALL
+[2019.10.23-17.01.16:996][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-17.01.57:195][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-17.02.11:911][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-17.02.33:914][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-17.02.35:101][ 41]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.23-17.02.35:108][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-17.02.35:108][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.23-17.02.35:108][ 41]PIE: New page: PIE session: FirstPersonExampleMap (Oct 23, 2019, 9:02:35 AM)
+[2019.10.23-17.02.35:108][ 41]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.23-17.02.35:141][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032386s)
+[2019.10.23-17.02.35:142][ 41]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.23-17.02.35:142][ 41]LogPlayLevel: PIE: World Init took: (0.001659s)
+[2019.10.23-17.02.35:142][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.034266s)
+[2019.10.23-17.02.35:164][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.10.23-17.02.35:200][ 41]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.23-17.02.35:211][ 41]LogInit: FAudioDevice initialized.
+[2019.10.23-17.02.35:218][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-17.02.35:218][ 41]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.23-17.02.35:223][ 41]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.23-13.02.35
+[2019.10.23-17.02.35:223][ 41]LogWorld: Bringing up level for play took: 0.004391
+[2019.10.23-17.02.35:224][ 41]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.10.23-17.02.35:225][ 41]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.23-17.02.35:227][ 41]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.733
+[2019.10.23-17.02.35:228][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-17.02.37:353][292]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-17.02.37:353][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-17.02.37:353][292]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.23-17.02.37:360][292]LogSlate: Window 'GardenProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.23-17.02.37:364][292]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.23-17.02.37:372][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.23-17.02.37:372][292]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-17.02.37:408][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.10.23-17.02.37:454][296]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.10.23-17.03.12:326][463]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/FirstPerson/Meshes/FirstPersonProjectileMaterial.FirstPersonProjectileMaterial
+[2019.10.23-17.03.15:075][781]LogSlate: Window 'FirstPersonProjectileMaterial' being destroyed
+[2019.10.23-17.03.15:079][781]LogSlate: Window 'FirstPersonProjectileMaterial' being destroyed
+[2019.10.23-17.03.15:093][781]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.10.23-17.03.32:733][874]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2019.10.23-17.03.38:384][474]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-17.03.44:602][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-17.03.44:668][189]BlueprintLog: New page: Compile FirstPersonProjectile
+[2019.10.23-17.03.44:835][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.10.23-17.03.45:804][300]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2019.10.23-17.03.45:808][300]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2019.10.23-17.03.45:815][300]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2019.10.23-17.03.48:673][639]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.23-17.03.48:679][639]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-17.03.48:679][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.23-17.03.48:680][639]PIE: New page: PIE session: FirstPersonExampleMap (Oct 23, 2019, 9:03:48 AM)
+[2019.10.23-17.03.48:680][639]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.23-17.03.48:708][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028159s)
+[2019.10.23-17.03.48:709][639]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.23-17.03.48:709][639]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2019.10.23-17.03.48:709][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.029110s)
+[2019.10.23-17.03.48:737][639]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.10.23-17.03.48:771][639]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.23-17.03.48:784][639]LogInit: FAudioDevice initialized.
+[2019.10.23-17.03.48:790][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-17.03.48:790][639]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.23-17.03.48:793][639]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.23-13.03.48
+[2019.10.23-17.03.48:794][639]LogWorld: Bringing up level for play took: 0.003337
+[2019.10.23-17.03.48:794][639]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.10.23-17.03.48:796][639]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.23-17.03.48:798][639]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.305
+[2019.10.23-17.03.48:798][639]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-17.04.07:670][897]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2982.080 Y=-1777.721 Z=235.948] for [FirstPersonProjectile_C]
+[2019.10.23-17.04.08:093][948]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3000.685 Y=-1774.200 Z=248.748] for [FirstPersonProjectile_C]
+[2019.10.23-17.04.08:269][969]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3003.208 Y=-1773.798 Z=248.640] for [FirstPersonProjectile_C]
+[2019.10.23-17.04.08:394][984]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2998.644 Y=-1769.385 Z=238.201] for [FirstPersonProjectile_C]
+[2019.10.23-17.04.08:536][  1]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3011.553 Y=-1753.748 Z=243.528] for [FirstPersonProjectile_C]
+[2019.10.23-17.04.08:678][ 18]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3024.976 Y=-1765.107 Z=251.983] for [FirstPersonProjectile_C]
+[2019.10.23-17.04.08:827][ 36]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3017.762 Y=-1783.398 Z=246.015] for [FirstPersonProjectile_C]
+[2019.10.23-17.04.08:944][ 50]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3017.258 Y=-1781.550 Z=244.604] for [FirstPersonProjectile_C]
+[2019.10.23-17.04.13:810][634]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-17.04.13:810][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-17.04.13:810][634]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.23-17.04.13:817][634]LogSlate: Window 'GardenProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.23-17.04.13:820][634]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.23-17.04.13:828][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.23-17.04.13:829][634]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.23-17.04.13:867][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.10.23-17.04.13:910][639]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.10.23-17.04.23:182][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-17.04.24:672][909]LogActorFactory: Actor Factory created Cylinder
+[2019.10.23-17.04.25:313][985]LogActorFactory: Actor Factory created Cylinder
+[2019.10.23-17.04.30:050][548]Cmd: TRANSACTION UNDO
+[2019.10.23-17.04.30:050][548]LogEditorTransaction: Undo Scale Actors
+[2019.10.23-17.04.59:469][ 17]Cmd: EDIT COPY
+[2019.10.23-17.04.59:907][ 69]Cmd: EDIT PASTE
+[2019.10.23-17.05.04:371][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder16)
+[2019.10.23-17.05.07:622][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-17.05.21:242][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-17.05.25:384][ 12]Cmd: EDIT COPY
+[2019.10.23-17.05.25:996][ 85]Cmd: EDIT PASTE
+[2019.10.23-17.05.34:631][115]Cmd: TRANSACTION UNDO
+[2019.10.23-17.05.34:631][115]LogEditorTransaction: Undo Move Actors
+[2019.10.23-17.05.53:830][403]Cmd: EDIT COPY
+[2019.10.23-17.05.54:402][471]Cmd: EDIT PASTE
+[2019.10.23-17.06.16:400][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-17.06.21:102][624]Cmd: EDIT COPY
+[2019.10.23-17.06.21:615][685]Cmd: EDIT PASTE
+[2019.10.23-17.06.33:664][122]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.23-17.06.36:487][450]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.23-17.07.11:304][575]Cmd: TRANSACTION UNDO
+[2019.10.23-17.07.11:304][575]LogEditorTransaction: Undo Scale Actors
+[2019.10.23-17.07.18:465][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-17.07.24:431][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-17.07.24:598][120]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Rope_2.Rope_2
+[2019.10.23-17.07.24:601][120]LogMaterial: Display: Missing cached shader map for material Rope_2, compiling. 
+[2019.10.23-17.07.24:661][120]LogMaterial: Display: Missing cached shader map for material Rope_2, compiling. 
+[2019.10.23-17.07.24:675][120]LogMaterial: Display: Missing cached shader map for material Rope_2, compiling. 
+[2019.10.23-17.07.24:691][120]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.23-17.07.24:696][120]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.10.23-17.07.24:696][120]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.10.23-17.07.24:696][120]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.10.23-17.07.24:696][120]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.10.23-17.07.25:137][144]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2019.10.23-17.07.25:154][145]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2019.10.23-17.07.25:154][145]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2019.10.23-17.07.25:171][146]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2019.10.23-17.07.25:319][157]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2019.10.23-17.07.25:404][163]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.23-17.07.25:431][165]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.10.23-17.07.25:431][165]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.10.23-17.07.25:534][173]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2019.10.23-17.07.25:849][197]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2019.10.23-17.07.25:892][201]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2019.10.23-17.07.25:921][204]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.23-17.07.25:994][211]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2019.10.23-17.07.26:163][226]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2019.10.23-17.07.26:298][238]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.10.23-17.07.26:361][244]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2019.10.23-17.07.26:429][251]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.10.23-17.07.26:449][253]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2019.10.23-17.07.26:685][271]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.10.23-17.07.26:809][280]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.10.23-17.07.26:850][283]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.10.23-17.07.26:900][287]LogMaterial: Display: Missing cached shader map for material Rope_2, compiling. 
+[2019.10.23-17.07.26:913][287]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.10.23-17.07.27:090][298]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2019.10.23-17.07.27:104][299]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2019.10.23-17.07.27:152][303]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2019.10.23-17.07.27:168][304]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2019.10.23-17.07.27:346][317]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2019.10.23-17.07.27:359][318]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2019.10.23-17.07.27:406][322]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2019.10.23-17.07.27:429][324]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2019.10.23-17.07.27:549][333]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2019.10.23-17.07.27:586][336]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2019.10.23-17.07.27:610][338]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.10.23-17.07.27:681][344]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2019.10.23-17.07.27:933][362]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2019.10.23-17.07.28:050][372]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2019.10.23-17.07.28:097][376]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2019.10.23-17.07.28:173][383]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.10.23-17.07.28:311][395]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2019.10.23-17.07.28:369][400]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.10.23-17.07.28:545][413]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.10.23-17.07.28:615][418]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.10.23-17.07.29:835][552]LogMaterial: Display: Missing cached shader map for material Rope_2, compiling. 
+[2019.10.23-17.07.29:850][552]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.10.23-17.07.29:850][552]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.10.23-17.07.29:850][552]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.10.23-17.07.29:850][552]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.10.23-17.07.29:854][552]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.23-17.07.30:135][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.10.23-17.07.30:135][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2019.10.23-17.07.30:136][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2019.10.23-17.07.30:147][574]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.10.23-17.07.30:277][584]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.10.23-17.07.30:385][592]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2019.10.23-17.07.30:399][593]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2019.10.23-17.07.30:399][593]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2019.10.23-17.07.30:494][600]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.10.23-17.07.30:682][613]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2019.10.23-17.07.30:881][627]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2019.10.23-17.07.30:895][628]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2019.10.23-17.07.30:992][636]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2019.10.23-17.07.31:184][651]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.10.23-17.07.31:184][651]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2019.10.23-17.07.31:395][667]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2019.10.23-17.07.31:472][673]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.10.23-17.07.31:472][673]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2019.10.23-17.07.31:585][682]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.10.23-17.07.31:794][698]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.10.23-17.07.31:834][701]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.10.23-17.07.31:851][702]MaterialEditorStats: Base pass shader: 120 instructions
+[2019.10.23-17.07.31:851][702]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.10.23-17.07.31:851][702]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.10.23-17.07.31:851][702]MaterialEditorStats: Texture samplers: 4/16
+[2019.10.23-17.07.31:851][702]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.10.23-17.07.31:851][702]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.23-17.07.35:157][ 67]LogMaterial: Display: Missing cached shader map for material Rope_2, compiling. 
+[2019.10.23-17.07.35:172][ 67]LogMaterial: Display: Missing cached shader map for material Rope_2, compiling. 
+[2019.10.23-17.07.35:193][ 68]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.10.23-17.07.35:193][ 68]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.10.23-17.07.35:193][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.10.23-17.07.35:193][ 68]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.10.23-17.07.35:547][ 99]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.10.23-17.07.35:558][100]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.23-17.07.35:558][100]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.10.23-17.07.35:558][100]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2019.10.23-17.07.35:764][117]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2019.10.23-17.07.35:800][120]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2019.10.23-17.07.35:800][120]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2019.10.23-17.07.35:813][121]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.23-17.07.36:020][137]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2019.10.23-17.07.36:112][144]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.10.23-17.07.36:268][156]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2019.10.23-17.07.36:297][158]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2019.10.23-17.07.36:494][173]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.10.23-17.07.36:569][179]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2019.10.23-17.07.36:618][183]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2019.10.23-17.07.36:769][194]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.10.23-17.07.36:877][202]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.10.23-17.07.37:181][228]LogMaterial: Display: Missing cached shader map for material Rope_2, compiling. 
+[2019.10.23-17.07.37:194][228]LogMaterial: Display: Missing cached shader map for material Rope_2, compiling. 
+[2019.10.23-17.07.37:218][229]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.10.23-17.07.37:218][229]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.10.23-17.07.37:218][229]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.10.23-17.07.37:218][229]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.10.23-17.07.37:606][263]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2019.10.23-17.07.37:606][263]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.23-17.07.37:616][264]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.10.23-17.07.37:616][264]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.10.23-17.07.37:773][276]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.10.23-17.07.37:878][284]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2019.10.23-17.07.37:879][284]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2019.10.23-17.07.37:879][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.10.23-17.07.38:077][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2019.10.23-17.07.38:173][307]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2019.10.23-17.07.38:342][320]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2019.10.23-17.07.38:370][322]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2019.10.23-17.07.38:550][336]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.10.23-17.07.38:640][343]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2019.10.23-17.07.38:666][345]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.10.23-17.07.38:847][359]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.10.23-17.07.38:942][366]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.10.23-17.07.39:008][371]LogMaterial: Display: Missing cached shader map for material Rope_2, compiling. 
+[2019.10.23-17.07.39:057][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2019.10.23-17.07.39:103][378]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.10.23-17.07.39:201][385]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.10.23-17.07.39:240][388]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2019.10.23-17.07.39:306][393]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.10.23-17.07.39:343][396]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.23-17.07.39:456][405]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.10.23-17.07.39:496][408]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2019.10.23-17.07.39:557][413]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.10.23-17.07.39:597][416]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2019.10.23-17.07.39:621][418]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2019.10.23-17.07.39:703][425]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.23-17.07.39:792][432]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2019.10.23-17.07.40:042][450]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.10.23-17.07.40:082][453]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2019.10.23-17.07.40:120][456]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2019.10.23-17.07.40:251][466]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.10.23-17.07.40:372][474]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2019.10.23-17.07.40:515][485]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2019.10.23-17.07.40:539][487]LogMaterialEditor: Applying material Rope_2
+[2019.10.23-17.07.40:989][487]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.10.23-17.07.40:989][487]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.10.23-17.07.41:003][487]LogMaterial: Display: Missing cached shader map for material Rope_2, compiling. 
+[2019.10.23-17.07.41:046][487]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.10.23-17.07.41:046][487]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.10.23-17.07.41:047][487]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.10.23-17.07.41:047][487]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.10.23-17.07.41:058][487]LogMaterial: Display: Missing cached shader map for material Rope_2, compiling. 
+[2019.10.23-17.07.41:076][487]LogMaterial: Display: Missing cached shader map for material Rope_2, compiling. 
+[2019.10.23-17.07.41:122][487]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2019.10.23-17.07.41:131][487]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.23-17.07.42:665][487]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2019.10.23-17.07.42:665][487]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2019.10.23-17.07.42:665][487]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2019.10.23-17.07.42:665][487]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2019.10.23-17.07.42:665][487]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2019.10.23-17.07.42:665][487]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2019.10.23-17.07.42:665][487]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2019.10.23-17.07.42:665][487]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2019.10.23-17.07.42:665][487]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2019.10.23-17.07.42:665][487]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2019.10.23-17.07.42:665][487]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2019.10.23-17.07.42:665][487]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2019.10.23-17.07.42:665][487]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2019.10.23-17.07.42:665][487]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2019.10.23-17.07.42:665][487]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2019.10.23-17.07.42:665][487]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2019.10.23-17.07.42:665][487]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2019.10.23-17.07.42:665][487]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2019.10.23-17.07.42:665][487]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2019.10.23-17.07.42:665][487]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2019.10.23-17.07.42:665][487]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2019.10.23-17.07.42:666][487]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2019.10.23-17.07.42:666][487]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2019.10.23-17.07.42:668][487]TextureStreamingBuild: Display: Compiling optional shaders took 1.545 seconds.
+[2019.10.23-17.07.42:703][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.10.23-17.07.43:544][545]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2019.10.23-17.07.44:613][561]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.10.23-17.07.44:613][561]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.10.23-17.07.44:614][561]MaterialEditorStats: Base pass shader: 121 instructions
+[2019.10.23-17.07.44:614][561]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2019.10.23-17.07.44:614][561]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.10.23-17.07.44:614][561]MaterialEditorStats: Texture samplers: 4/16
+[2019.10.23-17.07.44:614][561]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.10.23-17.07.44:614][561]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.23-17.07.52:436][310]LogMaterial: Display: Missing cached shader map for material Rope_2, compiling. 
+[2019.10.23-17.07.52:449][310]LogMaterial: Display: Missing cached shader map for material Rope_2, compiling. 
+[2019.10.23-17.07.52:469][311]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.10.23-17.07.52:469][311]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.10.23-17.07.52:469][311]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.10.23-17.07.52:469][311]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.10.23-17.07.52:730][332]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.10.23-17.07.52:730][332]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2019.10.23-17.07.52:730][332]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2019.10.23-17.07.52:741][333]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2019.10.23-17.07.52:873][343]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2019.10.23-17.07.52:977][351]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2019.10.23-17.07.52:989][352]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2019.10.23-17.07.53:001][353]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.23-17.07.53:093][361]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2019.10.23-17.07.53:323][377]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.10.23-17.07.53:479][389]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.10.23-17.07.53:505][391]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.10.23-17.07.53:568][396]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.10.23-17.07.53:766][411]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.10.23-17.07.53:891][421]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2019.10.23-17.07.53:993][429]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.10.23-17.07.54:077][436]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.10.23-17.07.54:093][437]LogMaterial: Display: Missing cached shader map for material Rope_2, compiling. 
+[2019.10.23-17.07.54:104][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.10.23-17.07.54:108][437]LogMaterial: Display: Missing cached shader map for material Rope_2, compiling. 
+[2019.10.23-17.07.54:286][449]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2019.10.23-17.07.54:385][457]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2019.10.23-17.07.54:385][457]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2019.10.23-17.07.54:445][462]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2019.10.23-17.07.54:582][472]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2019.10.23-17.07.54:621][475]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2019.10.23-17.07.54:667][479]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2019.10.23-17.07.54:680][480]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2019.10.23-17.07.54:854][493]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2019.10.23-17.07.54:854][493]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2019.10.23-17.07.54:867][494]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2019.10.23-17.07.54:902][497]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2019.10.23-17.07.55:117][513]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2019.10.23-17.07.55:215][520]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2019.10.23-17.07.55:369][531]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2019.10.23-17.07.55:385][532]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2019.10.23-17.07.55:614][549]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.10.23-17.07.55:667][553]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2019.10.23-17.07.55:704][556]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.10.23-17.07.55:876][569]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.10.23-17.07.55:973][576]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.10.23-17.07.56:282][600]MaterialEditorStats: Base pass shader: 121 instructions
+[2019.10.23-17.07.56:282][600]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2019.10.23-17.07.56:282][600]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.10.23-17.07.56:282][600]MaterialEditorStats: Texture samplers: 4/16
+[2019.10.23-17.07.56:282][600]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.10.23-17.07.56:282][600]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.23-17.07.56:476][620]LogMaterial: Display: Missing cached shader map for material Rope_2, compiling. 
+[2019.10.23-17.07.56:502][622]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.10.23-17.07.56:502][622]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.10.23-17.07.56:502][622]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.10.23-17.07.56:502][622]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.10.23-17.07.56:573][629]LogMaterialEditor: Applying material Rope_2
+[2019.10.23-17.07.57:053][629]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2019.10.23-17.07.57:053][629]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.23-17.07.57:053][629]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.10.23-17.07.57:053][629]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.10.23-17.07.57:053][629]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.10.23-17.07.57:053][629]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2019.10.23-17.07.57:053][629]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2019.10.23-17.07.57:053][629]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2019.10.23-17.07.57:053][629]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2019.10.23-17.07.57:077][629]LogMaterial: Display: Missing cached shader map for material Rope_2, compiling. 
+[2019.10.23-17.07.57:150][629]LogMaterial: Display: Missing cached shader map for material Rope_2, compiling. 
+[2019.10.23-17.07.57:174][629]LogMaterial: Display: Missing cached shader map for material Rope_2, compiling. 
+[2019.10.23-17.07.57:222][629]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2019.10.23-17.07.57:223][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.10.23-17.07.57:231][629]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 43
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 41
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 40
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 35
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2019.10.23-17.07.58:837][629]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.10.23-17.07.58:841][629]TextureStreamingBuild: Display: Compiling optional shaders took 1.618 seconds.
+[2019.10.23-17.07.58:876][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.10.23-17.08.00:129][660]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.10.23-17.08.00:129][660]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2019.10.23-17.08.00:129][660]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.10.23-17.08.00:454][690]MaterialEditorStats: Base pass shader: 121 instructions
+[2019.10.23-17.08.00:454][690]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2019.10.23-17.08.00:454][690]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.10.23-17.08.00:454][690]MaterialEditorStats: Texture samplers: 4/16
+[2019.10.23-17.08.00:454][690]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.10.23-17.08.00:454][690]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.23-17.08.02:654][935]LogSlate: Window 'Rope_2' being destroyed
+[2019.10.23-17.08.02:658][935]LogSlate: Window 'Rope_2' being destroyed
+[2019.10.23-17.08.02:678][935]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2019.10.23-17.08.12:725][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-17.08.16:579][595]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.23-17.08.23:235][332]Cmd: POLY SELECT ADJACENT ALL
+[2019.10.23-17.08.24:691][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-17.08.35:340][746]Cmd: TRANSACTION UNDO
+[2019.10.23-17.08.35:340][746]LogEditorTransaction: Undo Scale Actors
+[2019.10.23-17.09.38:997][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-17.09.42:456][644]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2019.10.23-17.10.20:548][140]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush5)
+[2019.10.23-17.10.37:642][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder19)
+[2019.10.23-17.10.41:311][601]Cmd: EDIT COPY
+[2019.10.23-17.10.41:767][655]Cmd: EDIT PASTE
+[2019.10.23-17.11.54:978][387]Cmd: EDIT COPY
+[2019.10.23-17.11.55:524][452]Cmd: EDIT PASTE
+[2019.10.23-17.12.11:537][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-17.12.19:154][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.23-17.12.28:894][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder22)
+[2019.10.23-17.12.33:207][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder22)
+[2019.10.23-17.12.36:195][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.23-17.12.40:513][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder22)
+[2019.10.23-17.12.44:429][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.23-17.12.54:806][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-17.12.57:243][732]LogActorFactory: Actor Factory created Cube
+[2019.10.23-17.12.57:883][808]LogActorFactory: Actor Factory created Cube
+[2019.10.23-17.13.00:497][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-17.14.25:976][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder17)
+[2019.10.23-17.14.34:930][273]Cmd: TRANSACTION UNDO
+[2019.10.23-17.14.34:930][273]LogEditorTransaction: Undo Scale Actors
+[2019.10.23-17.14.45:074][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder16)
+[2019.10.23-17.14.48:763][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2019.10.23-17.15.45:919][712]Cmd: EDIT COPY
+[2019.10.23-17.15.46:625][796]Cmd: EDIT PASTE
+[2019.10.23-17.16.01:818][613]Cmd: TRANSACTION UNDO
+[2019.10.23-17.16.01:818][613]LogEditorTransaction: Undo Rotate Actors
+[2019.10.23-17.16.02:223][657]Cmd: TRANSACTION UNDO
+[2019.10.23-17.16.02:223][657]LogEditorTransaction: Undo Rotate Actors
+[2019.10.23-17.16.46:177][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2019.10.23-17.16.52:969][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2019.10.23-17.17.50:937][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube13)
+[2019.10.23-17.17.51:788][700]Cmd: DELETE
+[2019.10.23-17.17.51:788][700]Cmd: ACTOR DELETE
+[2019.10.23-17.17.51:799][700]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.23-17.17.51:833][700]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.10.23-17.17.51:834][700]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2019.10.23-17.17.53:096][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube12)
+[2019.10.23-17.17.53:333][876]Cmd: DELETE
+[2019.10.23-17.17.53:333][876]Cmd: ACTOR DELETE
+[2019.10.23-17.17.53:342][876]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.23-17.17.53:367][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.10.23-17.17.53:367][876]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.10.23-17.18.00:800][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube14)
+[2019.10.23-17.18.01:487][835]Cmd: DELETE
+[2019.10.23-17.18.01:487][835]Cmd: ACTOR DELETE
+[2019.10.23-17.18.01:495][835]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.23-17.18.01:522][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.10.23-17.18.01:523][835]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2019.10.23-17.18.20:167][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-17.18.20:262][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.10.23-17.18.20:724][ 76]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMap33B0E3944EC26B1F612B53BC329214CC.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.23-17.18.21:752][ 76]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMap_BuiltData76CD11374009560C681EADA179E41ABD.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.23-17.18.22:455][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.10.23-17.18.23:989][136]LogSlate: Window 'Save Content' being destroyed
+[2019.10.23-17.18.24:031][136]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonProjectile527C385148E17C2474DC0080936699A6.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2019.10.23-17.18.24:044][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Rope_2" FILE="../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/Rope_2.uasset" SILENT=true
+[2019.10.23-17.18.24:097][136]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/Rope_22533E7DA46EED3883115D2992AA8E8DC.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/Rope_2.uasset'
+[2019.10.23-17.18.27:397][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.10.23-17.18.27:656][524]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMap930BAAF648F903B1304D7381217FF2DF.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.23-17.18.28:391][524]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMap_BuiltData7355F98B4D4D8389EA6280A05F50A078.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.23-17.18.31:499][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
