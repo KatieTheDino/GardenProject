@@ -6478,3 +6478,1141 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.24-02.10.07:528][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
 [2019.10.24-02.10.07:835][737]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMapA0B540BB44356AC089D98B994A358E65.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2019.10.24-02.10.08:113][737]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMap_BuiltData6FF6BEB744A53590460560BDE79C67D5.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.24-02.10.39:635][ 58]LogSlate: Window 'Tutorials' being destroyed
+[2019.10.24-02.13.12:007][342]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.10.24-02.13.12:200][342]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.10.24-02.19.41:461][474]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.10.24-02.19.41:653][474]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.10.24-02.19.57:258][399]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.24-02.19.57:273][399]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-02.19.57:273][399]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-02.19.57:273][399]PIE: New page: PIE session: FirstPersonExampleMap (Oct 23, 2019, 6:19:57 PM)
+[2019.10.24-02.19.57:273][399]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-02.19.57:308][399]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034209s)
+[2019.10.24-02.19.57:308][399]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.24-02.19.57:309][399]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2019.10.24-02.19.57:309][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.035285s)
+[2019.10.24-02.19.57:341][399]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.10.24-02.19.57:375][399]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-02.19.57:388][399]LogInit: FAudioDevice initialized.
+[2019.10.24-02.19.57:396][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-02.19.57:396][399]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-02.19.57:402][399]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.23-22.19.57
+[2019.10.24-02.19.57:402][399]LogWorld: Bringing up level for play took: 0.005620
+[2019.10.24-02.19.57:403][399]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2019.10.24-02.19.57:404][399]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.24-02.19.57:408][399]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.552
+[2019.10.24-02.19.57:408][399]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-02.20.13:716][352]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=372.764
+[2019.10.24-02.20.13:724][353]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=367.097
+[2019.10.24-02.20.13:732][354]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=361.431
+[2019.10.24-02.20.13:741][355]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=355.764
+[2019.10.24-02.20.13:749][356]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=350.098
+[2019.10.24-02.20.13:757][357]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=344.431
+[2019.10.24-02.20.13:766][358]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=338.764
+[2019.10.24-02.20.13:774][359]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=333.098
+[2019.10.24-02.20.13:785][360]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=327.431
+[2019.10.24-02.20.13:791][361]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=321.558
+[2019.10.24-02.20.13:798][362]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=315.892
+[2019.10.24-02.20.13:807][363]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=310.225
+[2019.10.24-02.20.13:815][364]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=304.559
+[2019.10.24-02.20.13:824][365]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=298.892
+[2019.10.24-02.20.13:832][366]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=293.226
+[2019.10.24-02.20.13:840][367]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=287.559
+[2019.10.24-02.20.13:849][368]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=281.892
+[2019.10.24-02.20.13:857][369]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=276.226
+[2019.10.24-02.20.13:865][370]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=270.559
+[2019.10.24-02.20.13:874][371]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=264.893
+[2019.10.24-02.20.13:882][372]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=259.226
+[2019.10.24-02.20.13:890][373]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=253.560
+[2019.10.24-02.20.13:899][374]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=247.893
+[2019.10.24-02.20.13:908][375]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=242.227
+[2019.10.24-02.20.13:916][376]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=236.560
+[2019.10.24-02.20.13:924][377]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=230.894
+[2019.10.24-02.20.13:933][378]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=225.227
+[2019.10.24-02.20.13:941][379]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=219.561
+[2019.10.24-02.20.13:949][380]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=213.895
+[2019.10.24-02.20.13:958][381]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=208.228
+[2019.10.24-02.20.13:966][382]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=202.561
+[2019.10.24-02.20.13:974][383]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=196.895
+[2019.10.24-02.20.13:982][384]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=191.229
+[2019.10.24-02.20.13:990][385]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=185.562
+[2019.10.24-02.20.13:999][386]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=179.896
+[2019.10.24-02.20.14:007][387]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=174.230
+[2019.10.24-02.20.14:016][388]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=168.563
+[2019.10.24-02.20.14:024][389]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=162.897
+[2019.10.24-02.20.14:032][390]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=157.231
+[2019.10.24-02.20.14:040][391]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=151.564
+[2019.10.24-02.20.14:049][392]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=145.897
+[2019.10.24-02.20.14:057][393]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=140.231
+[2019.10.24-02.20.14:065][394]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=134.564
+[2019.10.24-02.20.14:074][395]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=128.898
+[2019.10.24-02.20.14:082][396]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=123.231
+[2019.10.24-02.20.14:090][397]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=117.564
+[2019.10.24-02.20.14:099][398]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=111.898
+[2019.10.24-02.20.14:107][399]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=106.231
+[2019.10.24-02.20.14:116][400]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=100.565
+[2019.10.24-02.20.14:124][401]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=94.893
+[2019.10.24-02.20.14:133][402]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=89.227
+[2019.10.24-02.20.14:141][403]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=83.560
+[2019.10.24-02.20.14:149][404]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=77.893
+[2019.10.24-02.20.14:158][405]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=72.227
+[2019.10.24-02.20.14:166][406]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=66.560
+[2019.10.24-02.20.14:174][407]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=60.894
+[2019.10.24-02.20.14:183][408]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=55.227
+[2019.10.24-02.20.14:191][409]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=49.561
+[2019.10.24-02.20.14:200][410]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=43.895
+[2019.10.24-02.20.14:208][411]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=38.228
+[2019.10.24-02.20.14:216][412]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=32.562
+[2019.10.24-02.20.14:225][413]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=26.895
+[2019.10.24-02.20.14:233][414]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=21.228
+[2019.10.24-02.20.14:241][415]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=15.562
+[2019.10.24-02.20.14:249][416]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=9.895
+[2019.10.24-02.20.14:258][417]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=4.229
+[2019.10.24-02.20.14:266][418]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-1.438
+[2019.10.24-02.20.14:274][419]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-7.104
+[2019.10.24-02.20.14:283][420]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-12.771
+[2019.10.24-02.20.14:291][421]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-18.437
+[2019.10.24-02.20.14:300][422]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-24.103
+[2019.10.24-02.20.14:308][423]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-29.770
+[2019.10.24-02.20.14:316][424]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-35.436
+[2019.10.24-02.20.14:325][425]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-41.103
+[2019.10.24-02.20.14:333][426]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-46.770
+[2019.10.24-02.20.14:341][427]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-52.436
+[2019.10.24-02.20.14:349][428]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-58.103
+[2019.10.24-02.20.14:358][429]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-63.769
+[2019.10.24-02.20.14:366][430]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-69.435
+[2019.10.24-02.20.14:374][431]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-75.102
+[2019.10.24-02.20.14:383][432]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-80.769
+[2019.10.24-02.20.14:391][433]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-86.435
+[2019.10.24-02.20.14:399][434]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-92.101
+[2019.10.24-02.20.14:408][435]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=60.55 Y=-31.47 Z=0.00 Location: X=-1669.92 Y=1786.15 Z=268.32 Normal: X=-0.58 Y=0.81 Z=0.00 PenetrationDepth:1.076 Actor:FirstPersonProjectile_C_20 Component:Sphere1 BoneName:None (0 other events since notify)
+[2019.10.24-02.20.14:408][435]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-97.768
+[2019.10.24-02.20.14:416][436]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-103.434
+[2019.10.24-02.20.14:424][437]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-109.101
+[2019.10.24-02.20.14:433][438]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-114.767
+[2019.10.24-02.20.14:441][439]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-120.434
+[2019.10.24-02.20.14:450][440]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-126.100
+[2019.10.24-02.20.14:458][441]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-131.766
+[2019.10.24-02.20.14:466][442]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-137.433
+[2019.10.24-02.20.14:475][443]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-143.099
+[2019.10.24-02.20.14:483][444]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-148.766
+[2019.10.24-02.20.14:491][445]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-154.433
+[2019.10.24-02.20.14:499][446]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-160.099
+[2019.10.24-02.20.14:507][447]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-165.766
+[2019.10.24-02.20.14:516][448]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-171.432
+[2019.10.24-02.20.14:524][449]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-177.099
+[2019.10.24-02.20.14:532][450]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-182.766
+[2019.10.24-02.20.14:540][451]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-188.432
+[2019.10.24-02.20.14:549][452]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-194.098
+[2019.10.24-02.20.14:558][453]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-199.771
+[2019.10.24-02.20.14:566][454]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-205.437
+[2019.10.24-02.20.14:574][455]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-211.104
+[2019.10.24-02.20.14:583][456]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-216.770
+[2019.10.24-02.20.14:591][457]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-222.437
+[2019.10.24-02.20.14:599][458]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-228.103
+[2019.10.24-02.20.14:607][459]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-233.770
+[2019.10.24-02.20.14:616][460]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-239.436
+[2019.10.24-02.20.14:624][461]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-245.103
+[2019.10.24-02.20.14:633][462]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-250.769
+[2019.10.24-02.20.14:641][463]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-256.436
+[2019.10.24-02.20.14:649][464]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-262.102
+[2019.10.24-02.20.14:658][465]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-267.769
+[2019.10.24-02.20.14:666][466]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-273.435
+[2019.10.24-02.20.14:675][467]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-279.102
+[2019.10.24-02.20.14:683][468]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-284.768
+[2019.10.24-02.20.14:691][469]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-290.435
+[2019.10.24-02.20.14:699][470]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-296.101
+[2019.10.24-02.20.14:708][471]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-301.512
+[2019.10.24-02.20.18:858][969]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2019.10.24-02.20.22:617][420]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-02.20.22:618][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-02.20.22:618][420]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-02.20.22:625][420]LogSlate: Window 'GardenProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.24-02.20.22:629][420]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-02.20.22:653][420]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-02.20.22:653][420]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-02.20.22:693][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.10.24-02.20.22:727][423]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2019.10.24-02.20.48:278][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.10.24-02.20.48:605][616]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMap_Auto7EB0766AA48D668D9B5ED0A942EB43D3E.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto7.umap'
+[2019.10.24-02.20.48:608][616]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.361
+[2019.10.24-02.20.48:608][616]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.361
+[2019.10.24-02.20.48:610][616]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.10.24-02.20.48:624][616]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2019.10.24-02.20.48:624][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.10.24-02.20.48:690][616]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonCharacter_Auto7301A9EAC4CD7649D29C8579727E72A82.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto7.uasset'
+[2019.10.24-02.20.48:692][616]LogFileHelpers: Auto-saving content packages took 0.082
+[2019.10.24-02.21.07:492][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.21.22:546][383]Cmd: TRANSACTION UNDO
+[2019.10.24-02.21.22:546][383]LogEditorTransaction: Undo Scale Actors
+[2019.10.24-02.21.48:700][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.22.01:798][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.10.24-02.22.02:107][465]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMap651B83754A9D2C902518B8A78D2836AA.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.24-02.22.02:389][465]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMap_BuiltData140C775747269C942E5C7384CB7883F3.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.24-02.22.03:286][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.10.24-02.22.04:774][566]LogSlate: Window 'Save Content' being destroyed
+[2019.10.24-02.22.04:788][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Keys" FILE="../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Blueprints/Keys.uasset" SILENT=true
+[2019.10.24-02.22.04:808][566]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/KeysBB7CF772430B587CCD67B695F377F610.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Blueprints/Keys.uasset'
+[2019.10.24-02.22.04:871][566]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonCharacter4FFDED7A453E67FB7A7F10916BC311AB.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.24-02.22.15:406][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.10.24-02.22.16:624][801]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.24-02.22.16:680][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.10.24-02.22.44:892][173]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/KeyCounter.KeyCounter
+[2019.10.24-02.22.47:524][410]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-02.27.36:187][801]BlueprintLog: New page: Compile KeyCounter
+[2019.10.24-02.27.36:435][801]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2019.10.24-02.27.48:030][  4]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.10.24-02.28.40:325][851]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.10.24-02.28.40:559][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.10.24-02.28.56:490][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.29.26:869][193]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.10.24-02.29.27:099][193]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.10.24-02.29.27:689][231]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonCharacter2163949E484C7C6D19AE1480A35FC215.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.24-02.30.10:539][835]BlueprintLog: New page: Compile KeyCounter
+[2019.10.24-02.30.10:580][835]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2019.10.24-02.31.26:176][143]BlueprintLog: New page: Compile KeyCounter
+[2019.10.24-02.31.26:221][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.10.24-02.32.18:855][622]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2019.10.24-02.32.19:216][622]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMap_Auto8A710E59846211A27666AD8AEA9A26862.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto8.umap'
+[2019.10.24-02.32.19:219][622]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.402
+[2019.10.24-02.32.19:219][622]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.402
+[2019.10.24-02.32.19:221][622]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/KeyCounter] ([1] browsable assets)...
+[2019.10.24-02.32.19:221][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/KeyCounter]
+[2019.10.24-02.32.19:230][622]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/KeyCounter_Auto83A9ED9664D6A3C72E2BE80B273C90966.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/Autosaves/Game/Widgets/KeyCounter_Auto8.uasset'
+[2019.10.24-02.32.19:231][622]LogFileHelpers: Auto-saving content packages took 0.011
+[2019.10.24-02.33.20:032][719]BlueprintLog: New page: Compile KeyCounter
+[2019.10.24-02.33.20:074][719]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.10.24-02.33.21:034][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/KeyCounter" FILE="../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Widgets/KeyCounter.uasset" SILENT=true
+[2019.10.24-02.33.21:048][827]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/KeyCounterD0ECAD0C4678410AD701338D7E1773FF.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Widgets/KeyCounter.uasset'
+[2019.10.24-02.34.07:032][ 64]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap
+[2019.10.24-02.35.16:284][608]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.24-02.35.35:735][896]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2019.10.24-02.35.35:959][896]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.10.24-02.35.43:306][450]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.24-02.35.43:321][450]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-02.35.43:321][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-02.35.43:321][450]PIE: New page: PIE session: FirstPersonExampleMap (Oct 23, 2019, 6:35:43 PM)
+[2019.10.24-02.35.43:321][450]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-02.35.43:357][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035723s)
+[2019.10.24-02.35.43:358][450]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.24-02.35.43:358][450]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2019.10.24-02.35.43:358][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.036939s)
+[2019.10.24-02.35.43:396][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.10.24-02.35.43:430][450]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-02.35.43:444][450]LogInit: FAudioDevice initialized.
+[2019.10.24-02.35.43:451][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-02.35.43:451][450]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-02.35.43:456][450]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.23-22.35.43
+[2019.10.24-02.35.43:457][450]LogWorld: Bringing up level for play took: 0.005330
+[2019.10.24-02.35.43:457][450]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2019.10.24-02.35.43:459][450]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.24-02.35.43:461][450]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.491
+[2019.10.24-02.35.43:461][450]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-02.35.56:591][ 14]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=372.763
+[2019.10.24-02.35.56:599][ 15]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=367.097
+[2019.10.24-02.35.56:607][ 16]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=361.431
+[2019.10.24-02.35.56:615][ 17]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=355.764
+[2019.10.24-02.35.56:624][ 18]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=350.098
+[2019.10.24-02.35.56:631][ 19]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=344.431
+[2019.10.24-02.35.56:640][ 20]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=338.765
+[2019.10.24-02.35.56:648][ 21]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=333.098
+[2019.10.24-02.35.56:657][ 22]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=327.431
+[2019.10.24-02.35.56:665][ 23]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=321.765
+[2019.10.24-02.35.56:673][ 24]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=316.098
+[2019.10.24-02.35.56:682][ 25]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=310.432
+[2019.10.24-02.35.56:691][ 26]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=304.765
+[2019.10.24-02.35.56:698][ 27]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=299.099
+[2019.10.24-02.35.56:707][ 28]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=293.432
+[2019.10.24-02.35.56:715][ 29]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=287.766
+[2019.10.24-02.35.56:723][ 30]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=282.092
+[2019.10.24-02.35.56:731][ 31]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=276.425
+[2019.10.24-02.35.56:740][ 32]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=270.759
+[2019.10.24-02.35.56:748][ 33]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=265.093
+[2019.10.24-02.35.56:756][ 34]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=259.426
+[2019.10.24-02.35.56:765][ 35]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=253.760
+[2019.10.24-02.35.56:773][ 36]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=248.093
+[2019.10.24-02.35.56:781][ 37]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=242.427
+[2019.10.24-02.35.56:790][ 38]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=236.760
+[2019.10.24-02.35.56:798][ 39]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=231.094
+[2019.10.24-02.35.56:806][ 40]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=225.426
+[2019.10.24-02.35.56:815][ 41]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=219.759
+[2019.10.24-02.35.56:824][ 42]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=214.093
+[2019.10.24-02.35.56:831][ 43]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=208.426
+[2019.10.24-02.35.56:840][ 44]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=202.760
+[2019.10.24-02.35.56:848][ 45]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=197.093
+[2019.10.24-02.35.56:856][ 46]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=191.427
+[2019.10.24-02.35.56:865][ 47]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=185.761
+[2019.10.24-02.35.56:874][ 48]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=180.094
+[2019.10.24-02.35.56:881][ 49]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=174.428
+[2019.10.24-02.35.56:890][ 50]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=168.761
+[2019.10.24-02.35.56:898][ 51]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=163.095
+[2019.10.24-02.35.56:906][ 52]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=157.429
+[2019.10.24-02.35.56:915][ 53]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=151.762
+[2019.10.24-02.35.56:924][ 54]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=146.095
+[2019.10.24-02.35.56:932][ 55]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=140.429
+[2019.10.24-02.35.56:941][ 56]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=134.762
+[2019.10.24-02.35.56:948][ 57]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=129.096
+[2019.10.24-02.35.56:956][ 58]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=123.429
+[2019.10.24-02.35.56:965][ 59]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=117.762
+[2019.10.24-02.35.56:973][ 60]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=112.096
+[2019.10.24-02.35.56:981][ 61]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=106.430
+[2019.10.24-02.35.56:990][ 62]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=100.763
+[2019.10.24-02.35.56:998][ 63]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=95.097
+[2019.10.24-02.35.57:006][ 64]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=89.431
+[2019.10.24-02.35.57:015][ 65]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=83.764
+[2019.10.24-02.35.57:023][ 66]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=78.098
+[2019.10.24-02.35.57:031][ 67]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=72.431
+[2019.10.24-02.35.57:039][ 68]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=66.765
+[2019.10.24-02.35.57:048][ 69]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=61.098
+[2019.10.24-02.35.57:056][ 70]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=55.432
+[2019.10.24-02.35.57:065][ 71]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=49.761
+[2019.10.24-02.35.57:073][ 72]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=44.094
+[2019.10.24-02.35.57:081][ 73]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=38.427
+[2019.10.24-02.35.57:090][ 74]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=32.761
+[2019.10.24-02.35.57:098][ 75]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=27.094
+[2019.10.24-02.35.57:106][ 76]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=21.421
+[2019.10.24-02.35.57:115][ 77]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=15.754
+[2019.10.24-02.35.57:123][ 78]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=10.088
+[2019.10.24-02.35.57:132][ 79]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=4.422
+[2019.10.24-02.35.57:140][ 80]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-1.245
+[2019.10.24-02.35.57:148][ 81]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-6.911
+[2019.10.24-02.35.57:156][ 82]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-12.578
+[2019.10.24-02.35.57:165][ 83]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-18.244
+[2019.10.24-02.35.57:173][ 84]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-23.911
+[2019.10.24-02.35.57:181][ 85]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-29.577
+[2019.10.24-02.35.57:190][ 86]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-35.244
+[2019.10.24-02.35.57:198][ 87]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-40.910
+[2019.10.24-02.35.57:206][ 88]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-46.577
+[2019.10.24-02.35.57:215][ 89]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-52.243
+[2019.10.24-02.35.57:223][ 90]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-57.910
+[2019.10.24-02.35.57:232][ 91]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-63.576
+[2019.10.24-02.35.57:240][ 92]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-69.243
+[2019.10.24-02.35.57:249][ 93]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-74.909
+[2019.10.24-02.35.57:257][ 94]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-80.576
+[2019.10.24-02.35.57:265][ 95]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-86.243
+[2019.10.24-02.35.57:273][ 96]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-91.909
+[2019.10.24-02.35.57:282][ 97]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-97.576
+[2019.10.24-02.35.57:290][ 98]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-103.242
+[2019.10.24-02.35.57:299][ 99]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-108.909
+[2019.10.24-02.35.57:307][100]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-114.575
+[2019.10.24-02.35.57:316][101]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-120.243
+[2019.10.24-02.35.57:323][102]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-125.909
+[2019.10.24-02.35.57:332][103]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-131.576
+[2019.10.24-02.35.57:340][104]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-137.242
+[2019.10.24-02.35.57:348][105]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-142.908
+[2019.10.24-02.35.57:356][106]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-148.575
+[2019.10.24-02.35.57:365][107]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-154.241
+[2019.10.24-02.35.57:374][108]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-159.908
+[2019.10.24-02.35.57:382][109]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-165.574
+[2019.10.24-02.35.57:390][110]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-171.240
+[2019.10.24-02.35.57:398][111]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-176.907
+[2019.10.24-02.35.57:407][112]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-182.573
+[2019.10.24-02.35.57:415][113]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-188.239
+[2019.10.24-02.35.57:423][114]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-193.916
+[2019.10.24-02.35.57:432][115]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-199.582
+[2019.10.24-02.35.57:441][116]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-205.248
+[2019.10.24-02.35.57:449][117]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-210.915
+[2019.10.24-02.35.57:457][118]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-216.581
+[2019.10.24-02.35.57:465][119]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-222.248
+[2019.10.24-02.35.57:474][120]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-227.914
+[2019.10.24-02.35.57:482][121]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-233.581
+[2019.10.24-02.35.57:490][122]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-239.247
+[2019.10.24-02.35.57:499][123]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-244.914
+[2019.10.24-02.35.57:507][124]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-250.580
+[2019.10.24-02.35.57:515][125]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-256.246
+[2019.10.24-02.35.57:524][126]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-261.913
+[2019.10.24-02.35.57:532][127]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-267.580
+[2019.10.24-02.35.57:540][128]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-273.246
+[2019.10.24-02.35.57:549][129]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-278.912
+[2019.10.24-02.35.57:557][130]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-284.579
+[2019.10.24-02.35.57:566][131]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-290.246
+[2019.10.24-02.35.57:574][132]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-295.912
+[2019.10.24-02.35.57:581][133]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-301.512
+[2019.10.24-02.36.02:390][710]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2019.10.24-02.36.50:624][491]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:632][492]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:641][493]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:649][494]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:657][495]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:667][496]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:674][497]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:683][498]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:690][499]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:698][500]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:706][501]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:715][502]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:723][503]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:732][504]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:740][505]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:748][506]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:757][507]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:765][508]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:773][509]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:782][510]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:790][511]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:798][512]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:807][513]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:815][514]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:823][515]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:832][516]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:840][517]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:848][518]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:857][519]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:865][520]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:874][521]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:882][522]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:890][523]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:899][524]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:907][525]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:915][526]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:924][527]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:932][528]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:940][529]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:949][530]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:957][531]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:965][532]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:974][533]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:982][534]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:991][535]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.50:998][536]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:006][537]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:015][538]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:023][539]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:032][540]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:040][541]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:048][542]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:058][543]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:065][544]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:073][545]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:082][546]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:090][547]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:098][548]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:107][549]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:115][550]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:124][551]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:132][552]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:140][553]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:149][554]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:157][555]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:165][556]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:174][557]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:182][558]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:190][559]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:199][560]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:207][561]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:215][562]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:224][563]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:232][564]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:240][565]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:249][566]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:257][567]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:265][568]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:274][569]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:282][570]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:292][571]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:299][572]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:307][573]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:316][574]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:324][575]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:332][576]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:340][577]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:349][578]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:357][579]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:366][580]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:374][581]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:382][582]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:390][583]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:398][584]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:406][585]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:415][586]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:423][587]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:431][588]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:440][589]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:448][590]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:456][591]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:465][592]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:473][593]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:482][594]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:490][595]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:498][596]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:507][597]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:515][598]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:523][599]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:532][600]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:540][601]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:548][602]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:557][603]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:565][604]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:573][605]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:582][606]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:590][607]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:598][608]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:607][609]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.36.51:615][610]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-02.37.06:509][397]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2019.10.24-02.37.21:144][153]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-02.37.21:144][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-02.37.21:144][153]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-02.37.21:154][153]LogSlate: Window 'GardenProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.24-02.37.21:158][153]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-02.37.21:184][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-02.37.21:184][153]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-02.37.21:233][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.10.24-02.37.21:245][154]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2019.10.24-02.43.57:484][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.10.24-02.43.57:845][158]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMap_Auto9CA90DCFB4EFF59C7B8CBE9BF4FE57D21.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto9.umap'
+[2019.10.24-02.43.57:848][158]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.404
+[2019.10.24-02.43.57:848][158]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.404
+[2019.10.24-02.44.09:016][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.44.28:492][410]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/kpearso1/Downloads/pinkbrick.jpeg)
+[2019.10.24-02.44.28:511][410]LogTexture: Display: Building textures: pinkbrick (BGRA8, 1024X910)
+[2019.10.24-02.44.31:670][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/kpearso1/Downloads/purpcurtain.jpg)
+[2019.10.24-02.44.31:676][599]LogTexture: Display: Building textures: purpcurtain (AutoDXT, 340X340)
+[2019.10.24-02.44.34:161][734]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/kpearso1/Downloads/housewhite.jpg)
+[2019.10.24-02.44.34:167][734]LogTexture: Display: Building textures: housewhite (BGRA8, 400X430)
+[2019.10.24-02.44.36:468][841]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/kpearso1/Downloads/PURPLE-BRICKS-.jpg)
+[2019.10.24-02.44.36:489][841]LogTexture: Display: Building textures: PURPLE-BRICKS- (BGRA8, 906X600)
+[2019.10.24-02.44.38:715][927]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/kpearso1/Downloads/baby blu.jpg)
+[2019.10.24-02.44.38:725][927]LogTexture: Display: Building textures: baby_blu (AutoDXT, 800X532)
+[2019.10.24-02.44.52:350][531]LogMaterial: Display: Missing cached shader map for material HouseBlu, compiling. 
+[2019.10.24-02.44.52:384][532]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.10.24-02.44.52:384][532]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.24-02.44.52:384][532]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.24-02.44.52:385][532]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.10.24-02.44.59:439][348]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/baby_blu0ABDE297431997F9E02A6BA2492E72D6.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/OriginalPhotos/baby_blu.uasset'
+[2019.10.24-02.44.59:618][348]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.10.24-02.44.59:660][348]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.10.24-02.44.59:696][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.24-02.45.10:469][619]LogMaterial: Display: Missing cached shader map for material HouseWhit, compiling. 
+[2019.10.24-02.45.10:502][620]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.10.24-02.45.10:502][620]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.24-02.45.10:502][620]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.24-02.45.10:502][620]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.10.24-02.45.16:363][292]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/housewhite68C6775E44104B4C5536ABA6B1E75EB0.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/OriginalPhotos/housewhite.uasset'
+[2019.10.24-02.45.16:527][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.10.24-02.45.16:569][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.10.24-02.45.16:603][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.10.24-02.45.30:620][956]LogMaterial: Display: Missing cached shader map for material HouseBrick, compiling. 
+[2019.10.24-02.45.30:654][957]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.10.24-02.45.30:654][957]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.24-02.45.30:654][957]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.24-02.45.30:654][957]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.10.24-02.45.38:419][856]LogMaterial: Display: Missing cached shader map for material HouseCurtain, compiling. 
+[2019.10.24-02.45.38:455][857]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.10.24-02.45.38:455][857]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.24-02.45.38:455][857]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.24-02.45.38:455][857]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.10.24-02.45.45:927][719]LogMaterial: Display: Missing cached shader map for material HouseChimney, compiling. 
+[2019.10.24-02.45.45:961][720]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.10.24-02.45.45:961][720]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.24-02.45.45:961][720]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.24-02.45.45:961][720]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.10.24-02.45.49:120][ 57]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/pinkbrick8CC9AA94475BBD5932849298AF2ECEFC.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/OriginalPhotos/pinkbrick.uasset'
+[2019.10.24-02.45.49:295][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.10.24-02.45.49:333][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.10.24-02.45.49:368][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.10.24-02.45.51:120][249]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/purpcurtainB8DED29F4A7F4A3A27D73E8A0E88C4B9.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/OriginalPhotos/purpcurtain.uasset'
+[2019.10.24-02.45.51:285][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.10.24-02.45.51:324][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.10.24-02.45.51:357][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.10.24-02.45.53:086][430]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/PURPLE-BRICKS-5A9A0E5F4F2A3B43FD0DDDB1254F362D.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/OriginalPhotos/PURPLE-BRICKS-.uasset'
+[2019.10.24-02.45.53:253][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.10.24-02.45.53:291][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.10.24-02.45.53:327][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.10.24-02.45.59:226][118]Cmd: POLY SELECT ADJACENT ALL
+[2019.10.24-02.46.01:071][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.46.02:172][452]LogMaterial: Display: Material /Game/Materials/HouseBrick.HouseBrick needed to have new flag set bUsedWithStaticLighting !
+[2019.10.24-02.46.02:178][452]LogMaterial: Display: Missing cached shader map for material HouseBrick, compiling. 
+[2019.10.24-02.46.02:215][453]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2019.10.24-02.46.02:215][453]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2019.10.24-02.46.02:215][453]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.10.24-02.46.02:215][453]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.10.24-02.46.14:183][774]Cmd: POLY SELECT ADJACENT ALL
+[2019.10.24-02.46.15:154][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.46.25:989][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.46.33:457][  4]Cmd: TRANSACTION UNDO
+[2019.10.24-02.46.33:457][  4]LogEditorTransaction: Undo Move Actors
+[2019.10.24-02.46.33:487][  4]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2018' invalid (6187 verts, 0 indices).
+[2019.10.24-02.46.33:487][  4]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2018.BodySetup_0 when we are unable to.
+[2019.10.24-02.46.33:488][  4]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2019' invalid (6187 verts, 0 indices).
+[2019.10.24-02.46.33:488][  4]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2019.BodySetup_0 when we are unable to.
+[2019.10.24-02.46.33:488][  4]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2020' invalid (6187 verts, 0 indices).
+[2019.10.24-02.46.33:488][  4]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2020.BodySetup_0 when we are unable to.
+[2019.10.24-02.46.33:488][  4]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2021' invalid (6187 verts, 0 indices).
+[2019.10.24-02.46.33:488][  4]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2021.BodySetup_0 when we are unable to.
+[2019.10.24-02.46.33:488][  4]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2022' invalid (6187 verts, 0 indices).
+[2019.10.24-02.46.33:488][  4]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2022.BodySetup_0 when we are unable to.
+[2019.10.24-02.46.33:488][  4]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2023' invalid (6187 verts, 0 indices).
+[2019.10.24-02.46.33:488][  4]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2023.BodySetup_0 when we are unable to.
+[2019.10.24-02.46.33:488][  4]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2024' invalid (6187 verts, 0 indices).
+[2019.10.24-02.46.33:488][  4]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2024.BodySetup_0 when we are unable to.
+[2019.10.24-02.46.33:488][  4]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2025' invalid (6187 verts, 0 indices).
+[2019.10.24-02.46.33:488][  4]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2025.BodySetup_0 when we are unable to.
+[2019.10.24-02.46.33:489][  4]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2026' invalid (6187 verts, 0 indices).
+[2019.10.24-02.46.33:489][  4]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2026.BodySetup_0 when we are unable to.
+[2019.10.24-02.46.33:489][  4]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2027' invalid (6187 verts, 0 indices).
+[2019.10.24-02.46.33:489][  4]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2027.BodySetup_0 when we are unable to.
+[2019.10.24-02.46.33:489][  4]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2028' invalid (6187 verts, 0 indices).
+[2019.10.24-02.46.33:489][  4]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2028.BodySetup_0 when we are unable to.
+[2019.10.24-02.46.33:489][  4]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2029' invalid (6187 verts, 0 indices).
+[2019.10.24-02.46.33:489][  4]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2029.BodySetup_0 when we are unable to.
+[2019.10.24-02.46.33:489][  4]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2030' invalid (6187 verts, 0 indices).
+[2019.10.24-02.46.33:489][  4]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2030.BodySetup_0 when we are unable to.
+[2019.10.24-02.46.33:489][  4]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2031' invalid (6187 verts, 0 indices).
+[2019.10.24-02.46.33:489][  4]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2031.BodySetup_0 when we are unable to.
+[2019.10.24-02.46.33:489][  4]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2032' invalid (6187 verts, 0 indices).
+[2019.10.24-02.46.33:489][  4]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2032.BodySetup_0 when we are unable to.
+[2019.10.24-02.46.33:490][  4]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2033' invalid (6187 verts, 0 indices).
+[2019.10.24-02.46.33:490][  4]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2033.BodySetup_0 when we are unable to.
+[2019.10.24-02.46.33:490][  4]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2034' invalid (6187 verts, 0 indices).
+[2019.10.24-02.46.33:490][  4]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2034.BodySetup_0 when we are unable to.
+[2019.10.24-02.46.33:490][  4]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2035' invalid (6187 verts, 0 indices).
+[2019.10.24-02.46.33:490][  4]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_2035.BodySetup_0 when we are unable to.
+[2019.10.24-02.46.34:900][162]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.10.24-02.46.47:922][690]Cmd: EDIT COPY
+[2019.10.24-02.46.48:147][716]Cmd: EDIT PASTE
+[2019.10.24-02.46.55:113][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.47.02:862][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.47.04:064][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2019.10.24-02.47.04:920][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.47.05:595][714]LogMaterial: Display: Material /Game/Materials/HouseBlu.HouseBlu needed to have new flag set bUsedWithStaticLighting !
+[2019.10.24-02.47.05:597][714]LogMaterial: Display: Missing cached shader map for material HouseBlu, compiling. 
+[2019.10.24-02.47.05:621][715]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2019.10.24-02.47.05:621][715]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2019.10.24-02.47.05:621][715]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.10.24-02.47.05:621][715]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.10.24-02.47.07:605][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder28)
+[2019.10.24-02.47.10:219][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.47.11:480][333]LogMaterial: Display: Material /Game/Materials/HouseWhit.HouseWhit needed to have new flag set bUsedWithStaticLighting !
+[2019.10.24-02.47.11:482][333]LogMaterial: Display: Missing cached shader map for material HouseWhit, compiling. 
+[2019.10.24-02.47.11:505][334]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2019.10.24-02.47.11:505][334]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2019.10.24-02.47.11:505][334]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.10.24-02.47.11:505][334]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.10.24-02.47.13:166][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.47.19:112][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.47.21:972][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.47.23:421][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.47.33:554][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.47.37:006][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.47.40:449][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.47.41:110][623]LogMaterial: Display: Material /Game/Materials/HouseCurtain.HouseCurtain needed to have new flag set bUsedWithStaticLighting !
+[2019.10.24-02.47.41:112][623]LogMaterial: Display: Missing cached shader map for material HouseCurtain, compiling. 
+[2019.10.24-02.47.41:139][624]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2019.10.24-02.47.41:139][624]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2019.10.24-02.47.41:139][624]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.10.24-02.47.41:139][624]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.10.24-02.47.42:224][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.47.46:854][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.47.48:208][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.47.52:224][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.47.53:839][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.47.55:237][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.47.56:774][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.47.58:625][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.48.01:160][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.48.07:528][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.48.09:122][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.48.13:331][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.48.15:664][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.48.24:639][602]Cmd: POLY SELECT ADJACENT ALL
+[2019.10.24-02.48.26:191][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.48.30:174][222]Cmd: POLY SELECT ADJACENT ALL
+[2019.10.24-02.48.30:968][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.48.33:482][599]Cmd: ACTOR UNHIDE SELECTED
+[2019.10.24-02.48.33:865][645]Cmd: POLY SELECT ADJACENT ALL
+[2019.10.24-02.48.34:890][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.48.35:720][854]LogMaterial: Display: Material /Game/Materials/HouseChimney.HouseChimney needed to have new flag set bUsedWithStaticLighting !
+[2019.10.24-02.48.35:724][854]LogMaterial: Display: Missing cached shader map for material HouseChimney, compiling. 
+[2019.10.24-02.48.35:747][855]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2019.10.24-02.48.35:747][855]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2019.10.24-02.48.35:747][855]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.10.24-02.48.35:747][855]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.10.24-02.48.42:239][591]Cmd: POLY SELECT ADJACENT ALL
+[2019.10.24-02.48.44:746][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.48.50:797][568]Cmd: POLY SELECT ADJACENT ALL
+[2019.10.24-02.48.52:488][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.48.57:097][289]Cmd: EDCALLBACK SURFPROPS
+[2019.10.24-02.48.58:255][427]Cmd: POLY SELECT ADJACENT ALL
+[2019.10.24-02.48.59:225][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.49.05:101][238]Cmd: POLY SELECT ADJACENT ALL
+[2019.10.24-02.49.05:998][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.49.11:002][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.24-02.51.24:167][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.51.24:303][903]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.10.24-02.51.25:917][903]LogSlate: Window 'Save Content' being destroyed
+[2019.10.24-02.51.25:968][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.24-02.51.26:328][903]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMap657ED438408B742420E3BF912F706987.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.24-02.51.26:349][903]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.415
+[2019.10.24-02.51.26:365][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/HouseBlu" FILE="../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/HouseBlu.uasset" SILENT=true
+[2019.10.24-02.51.26:373][903]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/HouseBluAE02CBD24DD42F561B6243982482BFBD.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/HouseBlu.uasset'
+[2019.10.24-02.51.26:393][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/HouseBrick" FILE="../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/HouseBrick.uasset" SILENT=true
+[2019.10.24-02.51.26:404][903]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/HouseBrick4A436BCA4B5AD0796B3A85AC707C63C5.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/HouseBrick.uasset'
+[2019.10.24-02.51.26:424][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/HouseChimney" FILE="../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/HouseChimney.uasset" SILENT=true
+[2019.10.24-02.51.26:436][903]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/HouseChimney1C07C197496DD02CC9E1C4B4D79011BD.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/HouseChimney.uasset'
+[2019.10.24-02.51.26:456][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/HouseCurtain" FILE="../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/HouseCurtain.uasset" SILENT=true
+[2019.10.24-02.51.26:466][903]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/HouseCurtainE54B18B34AD82D0BDE413B87F99AB1B3.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/HouseCurtain.uasset'
+[2019.10.24-02.51.26:485][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/HouseWhit" FILE="../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/HouseWhit.uasset" SILENT=true
+[2019.10.24-02.51.26:494][903]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/HouseWhitA6B60D504F7894EDAF5DB3826D559533.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Materials/HouseWhit.uasset'
+[2019.10.24-02.51.28:139][ 72]MapCheck: New page: Map Check
+[2019.10.24-02.51.28:152][ 72]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.24-02.51.28:152][ 72]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.24-02.51.28:342][ 72]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2019.10.24-02.51.28:396][ 72]LightingResults: New page: Lighting Build - Oct 23, 2019, 6:51:28 PM
+[2019.10.24-02.51.28:407][ 72]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.24-02.51.28:409][ 72]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.24-02.51.28:409][ 72]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.24-02.51.28:409][ 72]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.24-02.51.28:409][ 72]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9488
+[2019.10.24-02.51.32:920][ 72]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.24-02.51.32:920][ 72]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.24-02.51.32:920][ 72]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.24-02.51.32:920][ 72]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.24-02.51.32:920][ 72]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.24-02.51.33:040][ 72]LogEditorBuildUtils: Build time 0:04
+[2019.10.24-02.51.33:075][ 73]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HouseCurtain, compiling. 
+[2019.10.24-02.51.33:084][ 73]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HouseCurtain, compiling. 
+[2019.10.24-02.51.33:088][ 73]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.10.24-02.51.33:088][ 73]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.10.24-02.51.33:096][ 73]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.10.24-02.51.33:096][ 73]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.10.24-02.51.33:118][ 74]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HouseBlu, compiling. 
+[2019.10.24-02.51.33:128][ 74]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HouseBlu, compiling. 
+[2019.10.24-02.51.33:152][ 75]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HouseWhit, compiling. 
+[2019.10.24-02.51.33:161][ 75]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HouseWhit, compiling. 
+[2019.10.24-02.51.33:182][ 76]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HouseBrick, compiling. 
+[2019.10.24-02.51.33:194][ 76]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HouseBrick, compiling. 
+[2019.10.24-02.51.33:216][ 77]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HouseChimney, compiling. 
+[2019.10.24-02.51.33:228][ 77]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HouseChimney, compiling. 
+[2019.10.24-02.51.34:584][ 78]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.24-02.51.34:584][ 78]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2019.10.24-02.51.34:584][ 78]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2019.10.24-02.51.34:584][ 78]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.10.24-02.51.34:584][ 78]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2019.10.24-02.51.34:584][ 78]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.10.24-02.51.34:584][ 78]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.10.24-02.51.34:844][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.10.24-02.51.49:872][427]Job is a success!
+[2019.10.24-02.51.50:008][428]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.023s
+[2019.10.24-02.51.50:008][428]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.10.24-02.51.50:008][428]LogVolumetricLightmapImport:      BrickData 945x5x5 = 0.9Mb
+[2019.10.24-02.51.50:008][428]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.24-02.51.50:008][428]LogVolumetricLightmapImport:          0: 0.5% covering 100.0% of volume
+[2019.10.24-02.51.50:008][428]LogVolumetricLightmapImport:          1: 4.2% covering 12.5% of volume
+[2019.10.24-02.51.50:008][428]LogVolumetricLightmapImport:          2: 95.2% covering 4.4% of volume
+[2019.10.24-02.51.51:162][428]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2019.10.24-02.51.51:162][428]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2019.10.24-02.51.51:162][428]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2019.10.24-02.51.51:162][428]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2019.10.24-02.51.51:162][428]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.10.24-02.51.51:162][428]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.10.24-02.51.51:162][428]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2019.10.24-02.51.51:162][428]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2019.10.24-02.51.51:162][428]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2019.10.24-02.51.51:362][428]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 32X32)
+[2019.10.24-02.51.51:362][428]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (BGRA8, 1024X128)
+[2019.10.24-02.51.51:362][428]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (BGRA8, 512X512)
+[2019.10.24-02.51.51:389][428]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (BGRA8, 1024X1024)
+[2019.10.24-02.51.51:404][428]Lightmass on NQSCGL-MSI-01: 15.9 sec total, 177 ms importing, 18 ms setup, 4.18 sec photons, 11.5 sec processing, 0 ms extra exporting [513/513 mappings]. Threads: 1:20 min total, 18.3 sec processing.
+[2019.10.24-02.51.51:407][428]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 77 meshes in 5 LightmapResourceClusters (15.4 Meshes per cluster).
+[2019.10.24-02.51.51:458][428]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.10.24-02.51.51:477][428]LogStaticLightingSystem: Illumination: 23.0 sec (900 ms encoding lightmaps, 223 ms encoding shadowmaps)
+[2019.10.24-02.51.51:477][428]LogStaticLightingSystem: Lightmap texture memory:  13.3 MB (10.7 MB streaming, 2.7 MB non-streaming), 6 textures
+[2019.10.24-02.51.51:477][428]LogStaticLightingSystem: Shadowmap texture memory: 7.3 MB (6.0 MB streaming, 1.3 MB non-streaming), 4 textures
+[2019.10.24-02.51.51:933][428]DumpUnbuiltLightIteractions
+[2019.10.24-02.51.51:933][428]Lights with unbuilt interactions: 0
+[2019.10.24-02.51.51:933][428]
+[2019.10.24-02.51.51:933][428]Primitives with unbuilt interactions: 0
+[2019.10.24-02.51.52:013][429]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.24-02.51.52:014][429]MapCheck: New page: FirstPersonExampleMap - Oct 23, 2019, 6:51:52 PM
+[2019.10.24-02.51.52:015][429]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.96ms to complete.
+[2019.10.24-02.52.25:892][457]LogSlate: Window 'FirstPersonExampleMap' being destroyed
+[2019.10.24-02.52.25:893][457]LogSlate: Window 'FirstPersonExampleMap' being destroyed
+[2019.10.24-02.52.25:902][457]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-02.52.26:016][457]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-02.52.26:021][457]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-02.52.26:062][457]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.24-02.52.26:062][457]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-02.52.26:107][457]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-02.52.28:134][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.52.28:318][471]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.10.24-02.52.28:661][471]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMap9930362D4844BA34491EBD87B1AF7EB5.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.24-02.52.28:948][471]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMap_BuiltData0016DA924579502369B7228D0D8604DA.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.24-02.52.29:536][509]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.10.24-02.52.32:027][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.10.24-02.52.34:905][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.10.24-02.52.35:215][132]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMapBE086FE04B13763DDED6D4B54E2A5AB4.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.24-02.52.35:489][132]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMap_BuiltData9D78A9A24AE48DF20D8716804A450111.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.24-02.52.39:376][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.10.24-02.52.39:413][587]LogSlate: Window 'GardenProject - Unreal Editor' being destroyed
+[2019.10.24-02.52.39:414][587]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.24-02.52.39:516][588]Cmd: QUIT_EDITOR
+[2019.10.24-02.52.40:037][588]LogExit: Preparing to exit.
+[2019.10.24-02.52.40:810][588]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-02.52.40:812][588]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-02.52.40:813][588]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-02.52.40:814][588]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-02.52.40:814][588]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-02.52.40:815][588]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-02.52.40:816][588]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-02.52.40:817][588]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-02.52.40:817][588]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-02.52.40:818][588]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-02.52.40:819][588]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-02.52.40:820][588]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-02.52.40:821][588]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-02.52.40:822][588]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-02.52.40:841][588]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.10.24-02.52.40:849][588]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-02.52.40:849][588]LogExit: Editor shut down
+[2019.10.24-02.52.40:849][588]LogExit: Transaction tracking system shut down
+[2019.10.24-02.52.41:066][588]LogExit: Object subsystem successfully closed.
+[2019.10.24-02.52.41:092][588]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.24-02.52.41:129][588]LogModuleManager: Shutting down and abandoning module SequencerWidgets (680)
+[2019.10.24-02.52.41:129][588]LogModuleManager: Shutting down and abandoning module TextureEditor (678)
+[2019.10.24-02.52.41:129][588]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (676)
+[2019.10.24-02.52.41:129][588]LogModuleManager: Shutting down and abandoning module Voice (674)
+[2019.10.24-02.52.41:129][588]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (672)
+[2019.10.24-02.52.41:129][588]LogModuleManager: Shutting down and abandoning module BlueprintGraph (670)
+[2019.10.24-02.52.41:129][588]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2019.10.24-02.52.41:129][588]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2019.10.24-02.52.41:129][588]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2019.10.24-02.52.41:130][588]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2019.10.24-02.52.41:130][588]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2019.10.24-02.52.41:130][588]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2019.10.24-02.52.41:130][588]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2019.10.24-02.52.41:130][588]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.10.24-02.52.41:130][588]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.10.24-02.52.41:130][588]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.10.24-02.52.41:130][588]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.10.24-02.52.41:130][588]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.10.24-02.52.41:130][588]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.10.24-02.52.41:130][588]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.10.24-02.52.41:130][588]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.10.24-02.52.41:130][588]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.10.24-02.52.41:130][588]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.10.24-02.52.41:130][588]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.10.24-02.52.41:130][588]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.10.24-02.52.41:130][588]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.10.24-02.52.41:130][588]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.10.24-02.52.41:130][588]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.10.24-02.52.41:131][588]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.10.24-02.52.41:132][588]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.10.24-02.52.41:132][588]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.10.24-02.52.41:132][588]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.10.24-02.52.41:132][588]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.10.24-02.52.41:132][588]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.10.24-02.52.41:132][588]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.10.24-02.52.41:132][588]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.10.24-02.52.42:224][588]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.10.24-02.52.42:224][588]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.10.24-02.52.42:224][588]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.10.24-02.52.42:224][588]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.10.24-02.52.42:224][588]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.10.24-02.52.42:224][588]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.10.24-02.52.42:224][588]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.10.24-02.52.42:224][588]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.10.24-02.52.42:224][588]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.10.24-02.52.42:224][588]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.10.24-02.52.42:224][588]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.10.24-02.52.42:224][588]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.10.24-02.52.42:224][588]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.10.24-02.52.42:224][588]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.10.24-02.52.42:225][588]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.10.24-02.52.42:225][588]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.10.24-02.52.42:225][588]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.10.24-02.52.42:225][588]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.10.24-02.52.42:225][588]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.10.24-02.52.42:225][588]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.10.24-02.52.42:225][588]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.10.24-02.52.42:225][588]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.10.24-02.52.42:225][588]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.10.24-02.52.42:279][588]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.10.24-02.52.42:279][588]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.10.24-02.52.42:279][588]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.10.24-02.52.42:279][588]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.10.24-02.52.42:279][588]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.10.24-02.52.42:279][588]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.10.24-02.52.42:279][588]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.10.24-02.52.42:279][588]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.10.24-02.52.42:279][588]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.10.24-02.52.42:279][588]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.10.24-02.52.42:279][588]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.10.24-02.52.42:284][588]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.10.24-02.52.42:284][588]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.10.24-02.52.42:284][588]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.10.24-02.52.42:284][588]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.10.24-02.52.42:285][588]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.10.24-02.52.42:285][588]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.10.24-02.52.42:285][588]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.10.24-02.52.42:285][588]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.10.24-02.52.42:287][588]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.10.24-02.52.42:287][588]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.10.24-02.52.42:287][588]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.10.24-02.52.42:287][588]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.10.24-02.52.42:287][588]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.10.24-02.52.42:287][588]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.10.24-02.52.42:287][588]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.10.24-02.52.42:287][588]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.10.24-02.52.42:287][588]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.10.24-02.52.42:287][588]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.10.24-02.52.42:287][588]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.10.24-02.52.42:287][588]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.10.24-02.52.42:287][588]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.10.24-02.52.42:287][588]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.10.24-02.52.42:288][588]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.10.24-02.52.42:288][588]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.10.24-02.52.42:288][588]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.10.24-02.52.42:288][588]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.10.24-02.52.42:290][588]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.10.24-02.52.42:382][588]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.10.24-02.52.42:384][588]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.10.24-02.52.42:484][588]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.10.24-02.52.42:585][588]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.10.24-02.52.42:585][588]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.10.24-02.52.42:585][588]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.10.24-02.52.42:585][588]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.10.24-02.52.42:585][588]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.10.24-02.52.42:585][588]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.24-02.52.42:585][588]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.10.24-02.52.42:585][588]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.10.24-02.52.42:585][588]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.10.24-02.52.42:585][588]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.10.24-02.52.42:585][588]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.10.24-02.52.42:585][588]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.10.24-02.52.42:585][588]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.10.24-02.52.42:585][588]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.10.24-02.52.42:586][588]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.10.24-02.52.42:586][588]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.10.24-02.52.42:586][588]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.10.24-02.52.42:586][588]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.10.24-02.52.42:586][588]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.10.24-02.52.42:586][588]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.10.24-02.52.42:587][588]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.10.24-02.52.42:587][588]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.10.24-02.52.42:587][588]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.10.24-02.52.42:587][588]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.10.24-02.52.42:589][588]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.10.24-02.52.42:589][588]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.10.24-02.52.42:589][588]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.10.24-02.52.42:589][588]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.10.24-02.52.42:589][588]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.10.24-02.52.42:589][588]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.10.24-02.52.42:589][588]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.10.24-02.52.42:589][588]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.10.24-02.52.42:589][588]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.10.24-02.52.42:589][588]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.10.24-02.52.42:589][588]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.10.24-02.52.42:589][588]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.10.24-02.52.42:589][588]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.10.24-02.52.42:589][588]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.10.24-02.52.42:589][588]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.10.24-02.52.42:589][588]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.10.24-02.52.42:589][588]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.10.24-02.52.42:589][588]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.10.24-02.52.42:589][588]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.10.24-02.52.42:589][588]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.10.24-02.52.42:589][588]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.10.24-02.52.42:589][588]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.10.24-02.52.42:589][588]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.10.24-02.52.42:590][588]LogDerivedDataCache: Shutdown
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.10.24-02.52.42:590][588]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.10.24-02.52.42:591][588]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.10.24-02.52.42:591][588]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.10.24-02.52.42:591][588]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.10.24-02.52.42:591][588]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.10.24-02.52.42:591][588]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.10.24-02.52.42:591][588]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.10.24-02.52.42:591][588]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.10.24-02.52.42:592][588]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.10.24-02.52.42:592][588]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.10.24-02.52.42:592][588]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.10.24-02.52.42:592][588]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.10.24-02.52.42:597][588]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.10.24-02.52.42:597][588]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.10.24-02.52.42:597][588]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.10.24-02.52.42:597][588]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.10.24-02.52.42:597][588]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.10.24-02.52.42:597][588]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.10.24-02.52.42:597][588]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.10.24-02.52.42:597][588]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.10.24-02.52.42:597][588]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.10.24-02.52.42:597][588]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.10.24-02.52.42:597][588]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.10.24-02.52.42:597][588]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.10.24-02.52.42:597][588]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.10.24-02.52.42:597][588]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.10.24-02.52.42:597][588]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.10.24-02.52.42:597][588]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.10.24-02.52.42:597][588]LogHMD: Freeing OpenVRDLLHandle.
+[2019.10.24-02.52.42:597][588]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.10.24-02.52.42:597][588]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.10.24-02.52.42:597][588]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.10.24-02.52.42:597][588]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.10.24-02.52.42:597][588]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.10.24-02.52.42:598][588]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.10.24-02.52.42:598][588]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.10.24-02.52.42:609][588]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.10.24-02.52.42:609][588]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.24-02.52.42:609][588]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF7B9FA47-4E63-9EA4-17DF-75BDF2417695%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=a1d364f14e153ffc1b2943a21544eb83%7C%7C77c622d4-0478-49a7-941b-61a0ef2ba4ae&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.24-02.52.42:642][588]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.10.24-02.52.42:643][588]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.10.24-02.52.42:644][588]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.10.24-02.52.42:645][588]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.10.24-02.52.42:645][588]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.10.24-02.52.42:645][588]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.10.24-02.52.42:645][588]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.10.24-02.52.42:645][588]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.10.24-02.52.42:645][588]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.10.24-02.52.42:645][588]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.10.24-02.52.42:646][588]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.10.24-02.52.42:646][588]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.10.24-02.52.42:646][588]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.10.24-02.52.42:646][588]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.10.24-02.52.42:646][588]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.10.24-02.52.42:647][588]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.10.24-02.52.42:647][588]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.10.24-02.52.42:647][588]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.10.24-02.52.42:647][588]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.10.24-02.52.42:647][588]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.10.24-02.52.42:647][588]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.10.24-02.52.42:647][588]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.10.24-02.52.42:647][588]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.10.24-02.52.42:648][588]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.10.24-02.52.42:648][588]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.10.24-02.52.42:648][588]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.10.24-02.52.42:648][588]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.10.24-02.52.42:648][588]LogD3D11RHI: Shutdown
+[2019.10.24-02.52.42:648][588]LogD3D11RHI: CleanupD3DDevice
+[2019.10.24-02.52.42:649][588]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.24-02.52.42:649][588]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.24-02.52.42:649][588]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.24-02.52.42:821][588]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.24-02.52.42:830][588]LogExit: Exiting.
+[2019.10.24-02.52.42:846][588]Log file closed, 10/23/19 22:52:42
