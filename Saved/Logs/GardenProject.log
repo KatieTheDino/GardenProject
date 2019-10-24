@@ -801,3 +801,1058 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.24-22.27.14:428][873]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
 [2019.10.24-22.28.34:462][397]LogSlate: Window 'Project Settings' being destroyed
 [2019.10.24-22.28.34:466][397]LogSlate: Window 'Project Settings' being destroyed
+[2019.10.24-22.57.14:883][  7]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2019.10.24-22.57.30:573][782]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2019.10.24-22.57.30:577][782]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2019.10.24-22.57.30:578][782]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-22.57.34:809][283]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.10.24-22.58.16:938][302]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/kpearso1/Downloads/WaterGun.wav)
+[2019.10.24-22.58.16:938][302]Error: Unable to read wave file 'WaterGun' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2019.10.24-22.58.20:108][413]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/kpearso1/Downloads/BackGroundTree.wav)
+[2019.10.24-22.58.26:604][413]LogSlate: Window 'Message' being destroyed
+[2019.10.24-22.58.26:637][413]Error: Unable to read wave file 'BackGroundTree' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2019.10.24-22.58.34:204][743]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/kpearso1/Downloads/GrowSound.wav)
+[2019.10.24-22.58.34:205][743]Error: Unable to read wave file 'GrowSound' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2019.10.24-22.58.34:363][744]LogUObjectHash: Compacting FUObjectHashTables data took   8.60ms
+[2019.10.24-22.58.34:363][744]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.091
+[2019.10.24-22.58.34:365][744]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonProjectile] ([1] browsable assets)...
+[2019.10.24-22.58.34:378][744]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile]
+[2019.10.24-22.58.34:378][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonProjectile]
+[2019.10.24-22.58.34:404][744]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonProjectile_Auto31302DBE543272D5929905590CF73931D.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonProjectile_Auto3.uasset'
+[2019.10.24-22.58.34:405][744]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/WaterGun] ([1] browsable assets)...
+[2019.10.24-22.58.34:409][744]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/WaterGun.WaterGun]
+[2019.10.24-22.58.34:409][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/WaterGun]
+[2019.10.24-22.58.34:413][744]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/WaterGun_Auto3C9C3C8A34013F31CCAEAFB967B6C3C34.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/Autosaves/Game/Audio/WaterGun_Auto3.uasset'
+[2019.10.24-22.58.34:414][744]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/BackGroundTree] ([1] browsable assets)...
+[2019.10.24-22.58.34:455][744]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/BackGroundTree.BackGroundTree]
+[2019.10.24-22.58.34:455][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/BackGroundTree]
+[2019.10.24-22.58.34:810][744]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/BackGroundTree_Auto3E9FE446349F53F40154D56815B16E2F8.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/Autosaves/Game/Audio/BackGroundTree_Auto3.uasset'
+[2019.10.24-22.58.34:811][744]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/GrowSound] ([1] browsable assets)...
+[2019.10.24-22.58.34:814][744]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/GrowSound.GrowSound]
+[2019.10.24-22.58.34:814][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/GrowSound]
+[2019.10.24-22.58.34:818][744]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/GrowSound_Auto3C8554EEB4F2349AA4B3B65AFE7454F52.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/Autosaves/Game/Audio/GrowSound_Auto3.uasset'
+[2019.10.24-22.58.34:819][744]LogFileHelpers: Auto-saving content packages took 0.455
+[2019.10.24-22.58.37:422][901]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/kpearso1/Downloads/KeyNoise1.wav)
+[2019.10.24-22.58.37:422][901]Error: Unable to read wave file 'KeyNoise1' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2019.10.24-22.58.52:497][414]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.10.24-22.58.52:738][414]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2019.10.24-22.58.54:083][538]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.10.24-22.58.54:087][538]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.10.24-22.58.54:096][538]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-22.58.54:803][616]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.24-22.58.54:812][616]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-22.58.54:812][616]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.24-22.58.54:813][616]LogPlayLevel: [PlayLevel] Compiling FirstPersonProjectile before play...
+[2019.10.24-22.58.54:981][616]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2019.10.24-22.58.54:981][616]LogPlayLevel: PlayLevel: Blueprint regeneration took 169 ms (1 blueprints)
+[2019.10.24-22.58.54:981][616]PIE: New page: PIE session: FirstPersonExampleMap (Oct 24, 2019, 2:58:54 PM)
+[2019.10.24-22.58.54:981][616]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-22.58.55:015][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034381s)
+[2019.10.24-22.58.55:015][616]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.24-22.58.55:015][616]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2019.10.24-22.58.55:016][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.035388s)
+[2019.10.24-22.58.55:047][616]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2019.10.24-22.58.55:081][616]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-22.58.55:095][616]LogInit: FAudioDevice initialized.
+[2019.10.24-22.58.55:103][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-22.58.55:103][616]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-22.58.55:110][616]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.24-18.58.55
+[2019.10.24-22.58.55:110][616]LogWorld: Bringing up level for play took: 0.006415
+[2019.10.24-22.58.55:111][616]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.10.24-22.58.55:112][616]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.24-22.58.55:115][616]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.555
+[2019.10.24-22.58.55:115][616]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-22.58.55:544][660]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave WaterGun...
+[2019.10.24-22.58.55:575][660]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 247916 while cooking SoundWave /Game/Audio/WaterGun.WaterGun.
+[2019.10.24-22.59.15:317][ 28]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=372.763
+[2019.10.24-22.59.15:325][ 29]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=367.097
+[2019.10.24-22.59.15:333][ 30]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=361.431
+[2019.10.24-22.59.15:342][ 31]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=355.764
+[2019.10.24-22.59.15:350][ 32]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=350.097
+[2019.10.24-22.59.15:358][ 33]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=344.431
+[2019.10.24-22.59.15:367][ 34]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=338.765
+[2019.10.24-22.59.15:375][ 35]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=333.098
+[2019.10.24-22.59.15:383][ 36]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=327.431
+[2019.10.24-22.59.15:391][ 37]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=321.765
+[2019.10.24-22.59.15:399][ 38]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=316.098
+[2019.10.24-22.59.15:407][ 39]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=310.432
+[2019.10.24-22.59.15:416][ 40]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=304.766
+[2019.10.24-22.59.15:424][ 41]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=299.099
+[2019.10.24-22.59.15:432][ 42]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=293.432
+[2019.10.24-22.59.15:441][ 43]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=287.766
+[2019.10.24-22.59.15:449][ 44]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=282.100
+[2019.10.24-22.59.15:458][ 45]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=276.433
+[2019.10.24-22.59.15:466][ 46]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=270.767
+[2019.10.24-22.59.15:474][ 47]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=265.101
+[2019.10.24-22.59.15:483][ 48]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=259.434
+[2019.10.24-22.59.15:491][ 49]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=253.768
+[2019.10.24-22.59.15:499][ 50]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=248.102
+[2019.10.24-22.59.15:508][ 51]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=242.429
+[2019.10.24-22.59.15:516][ 52]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=236.763
+[2019.10.24-22.59.15:524][ 53]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=231.096
+[2019.10.24-22.59.15:533][ 54]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=225.430
+[2019.10.24-22.59.15:541][ 55]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=219.764
+[2019.10.24-22.59.15:549][ 56]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=214.097
+[2019.10.24-22.59.15:558][ 57]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=208.431
+[2019.10.24-22.59.15:566][ 58]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=202.764
+[2019.10.24-22.59.15:574][ 59]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=197.098
+[2019.10.24-22.59.15:583][ 60]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=191.432
+[2019.10.24-22.59.15:591][ 61]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=185.765
+[2019.10.24-22.59.15:600][ 62]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=180.098
+[2019.10.24-22.59.15:608][ 63]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=174.432
+[2019.10.24-22.59.15:617][ 64]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=168.558
+[2019.10.24-22.59.15:625][ 65]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=162.864
+[2019.10.24-22.59.15:633][ 66]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=157.193
+[2019.10.24-22.59.15:642][ 67]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=151.527
+[2019.10.24-22.59.15:650][ 68]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=145.860
+[2019.10.24-22.59.15:658][ 69]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=140.194
+[2019.10.24-22.59.15:667][ 70]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=134.527
+[2019.10.24-22.59.15:675][ 71]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=128.861
+[2019.10.24-22.59.15:683][ 72]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=123.194
+[2019.10.24-22.59.15:692][ 73]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=117.528
+[2019.10.24-22.59.15:700][ 74]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=111.861
+[2019.10.24-22.59.15:708][ 75]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=106.195
+[2019.10.24-22.59.15:717][ 76]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=100.528
+[2019.10.24-22.59.15:724][ 77]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=94.862
+[2019.10.24-22.59.15:733][ 78]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=89.195
+[2019.10.24-22.59.15:741][ 79]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=83.529
+[2019.10.24-22.59.15:749][ 80]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=77.862
+[2019.10.24-22.59.15:758][ 81]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=72.196
+[2019.10.24-22.59.15:766][ 82]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=66.529
+[2019.10.24-22.59.15:775][ 83]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=60.863
+[2019.10.24-22.59.15:783][ 84]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=55.196
+[2019.10.24-22.59.15:791][ 85]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=49.530
+[2019.10.24-22.59.15:800][ 86]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=43.863
+[2019.10.24-22.59.15:808][ 87]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=38.197
+[2019.10.24-22.59.15:816][ 88]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=32.530
+[2019.10.24-22.59.15:824][ 89]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=26.864
+[2019.10.24-22.59.15:833][ 90]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=21.197
+[2019.10.24-22.59.15:841][ 91]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=15.531
+[2019.10.24-22.59.15:849][ 92]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=9.864
+[2019.10.24-22.59.15:858][ 93]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=4.197
+[2019.10.24-22.59.15:866][ 94]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-1.469
+[2019.10.24-22.59.15:874][ 95]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-7.135
+[2019.10.24-22.59.15:883][ 96]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-12.802
+[2019.10.24-22.59.15:891][ 97]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-18.468
+[2019.10.24-22.59.15:900][ 98]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-24.135
+[2019.10.24-22.59.15:908][ 99]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-29.801
+[2019.10.24-22.59.15:916][100]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-35.468
+[2019.10.24-22.59.15:925][101]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-41.134
+[2019.10.24-22.59.15:933][102]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-46.801
+[2019.10.24-22.59.15:941][103]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-52.467
+[2019.10.24-22.59.15:950][104]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-58.134
+[2019.10.24-22.59.15:958][105]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-63.800
+[2019.10.24-22.59.15:966][106]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-69.467
+[2019.10.24-22.59.15:975][107]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-75.133
+[2019.10.24-22.59.15:983][108]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-80.800
+[2019.10.24-22.59.15:991][109]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-86.466
+[2019.10.24-22.59.16:000][110]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-92.133
+[2019.10.24-22.59.16:008][111]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-97.799
+[2019.10.24-22.59.16:016][112]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-103.466
+[2019.10.24-22.59.16:025][113]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-109.132
+[2019.10.24-22.59.16:033][114]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-114.799
+[2019.10.24-22.59.16:042][115]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-120.465
+[2019.10.24-22.59.16:050][116]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-126.132
+[2019.10.24-22.59.16:059][117]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-131.798
+[2019.10.24-22.59.16:067][118]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-137.465
+[2019.10.24-22.59.16:074][119]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-143.131
+[2019.10.24-22.59.16:083][120]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-148.797
+[2019.10.24-22.59.16:091][121]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-154.464
+[2019.10.24-22.59.16:099][122]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-160.130
+[2019.10.24-22.59.16:108][123]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-165.796
+[2019.10.24-22.59.16:116][124]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-171.467
+[2019.10.24-22.59.16:125][125]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-177.133
+[2019.10.24-22.59.16:133][126]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-182.799
+[2019.10.24-22.59.16:141][127]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-188.466
+[2019.10.24-22.59.16:150][128]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-194.140
+[2019.10.24-22.59.16:158][129]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-199.807
+[2019.10.24-22.59.16:166][130]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-205.474
+[2019.10.24-22.59.16:175][131]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-211.141
+[2019.10.24-22.59.16:183][132]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-216.807
+[2019.10.24-22.59.16:191][133]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-222.473
+[2019.10.24-22.59.16:200][134]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-228.140
+[2019.10.24-22.59.16:208][135]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-233.807
+[2019.10.24-22.59.16:217][136]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-239.473
+[2019.10.24-22.59.16:225][137]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-245.139
+[2019.10.24-22.59.16:234][138]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-250.819
+[2019.10.24-22.59.16:242][139]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-256.486
+[2019.10.24-22.59.16:250][140]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-262.152
+[2019.10.24-22.59.16:259][141]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-267.818
+[2019.10.24-22.59.16:267][142]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-273.487
+[2019.10.24-22.59.16:275][143]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-279.153
+[2019.10.24-22.59.16:284][144]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-284.820
+[2019.10.24-22.59.16:292][145]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-290.487
+[2019.10.24-22.59.16:300][146]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-296.153
+[2019.10.24-22.59.16:309][147]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-301.512
+[2019.10.24-22.59.25:631][263]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2019.10.24-22.59.26:282][341]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-22.59.26:282][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-22.59.26:282][341]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-22.59.26:291][341]LogSlate: Window 'GardenProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.24-22.59.26:295][341]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-22.59.26:304][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-22.59.26:304][341]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-22.59.26:352][341]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2019.10.24-22.59.26:396][343]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.10.24-22.59.32:596][ 84]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Keys.Keys
+[2019.10.24-22.59.44:904][359]BlueprintLog: New page: Compile Keys
+[2019.10.24-22.59.45:238][359]LogUObjectHash: Compacting FUObjectHashTables data took   8.01ms
+[2019.10.24-22.59.46:584][489]LogSlate: Window 'Keys' being destroyed
+[2019.10.24-22.59.46:588][489]LogSlate: Window 'Keys' being destroyed
+[2019.10.24-22.59.46:589][489]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-22.59.47:550][599]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.24-22.59.47:558][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-22.59.47:558][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-22.59.47:558][599]PIE: New page: PIE session: FirstPersonExampleMap (Oct 24, 2019, 2:59:47 PM)
+[2019.10.24-22.59.47:558][599]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-22.59.47:592][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033253s)
+[2019.10.24-22.59.47:592][599]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.24-22.59.47:593][599]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2019.10.24-22.59.47:593][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.034420s)
+[2019.10.24-22.59.47:635][599]LogUObjectHash: Compacting FUObjectHashTables data took   7.44ms
+[2019.10.24-22.59.47:668][599]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-22.59.47:681][599]LogInit: FAudioDevice initialized.
+[2019.10.24-22.59.47:688][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-22.59.47:688][599]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-22.59.47:693][599]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.24-18.59.47
+[2019.10.24-22.59.47:693][599]LogWorld: Bringing up level for play took: 0.004914
+[2019.10.24-22.59.47:693][599]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.10.24-22.59.47:695][599]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.24-22.59.47:697][599]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.138
+[2019.10.24-22.59.47:697][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-22.59.57:496][767]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=372.763
+[2019.10.24-22.59.57:503][768]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=367.097
+[2019.10.24-22.59.57:511][769]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=361.429
+[2019.10.24-22.59.57:519][770]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=355.763
+[2019.10.24-22.59.57:528][771]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=350.097
+[2019.10.24-22.59.57:536][772]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=344.430
+[2019.10.24-22.59.57:544][773]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=338.764
+[2019.10.24-22.59.57:553][774]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=333.098
+[2019.10.24-22.59.57:561][775]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=327.423
+[2019.10.24-22.59.57:569][776]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=321.757
+[2019.10.24-22.59.57:577][777]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=316.090
+[2019.10.24-22.59.57:585][778]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=310.424
+[2019.10.24-22.59.57:594][779]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=304.757
+[2019.10.24-22.59.57:602][780]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=299.091
+[2019.10.24-22.59.57:610][781]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=293.425
+[2019.10.24-22.59.57:619][782]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=287.758
+[2019.10.24-22.59.57:627][783]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=282.092
+[2019.10.24-22.59.57:636][784]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=276.425
+[2019.10.24-22.59.57:644][785]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=270.758
+[2019.10.24-22.59.57:652][786]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=265.092
+[2019.10.24-22.59.57:661][787]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=259.425
+[2019.10.24-22.59.57:669][788]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=253.759
+[2019.10.24-22.59.57:677][789]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=248.092
+[2019.10.24-22.59.57:686][790]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=242.426
+[2019.10.24-22.59.57:694][791]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=236.759
+[2019.10.24-22.59.57:702][792]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=231.090
+[2019.10.24-22.59.57:711][793]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=225.423
+[2019.10.24-22.59.57:719][794]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=219.757
+[2019.10.24-22.59.57:728][795]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=214.090
+[2019.10.24-22.59.57:736][796]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=208.424
+[2019.10.24-22.59.57:744][797]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=202.757
+[2019.10.24-22.59.57:753][798]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=197.083
+[2019.10.24-22.59.57:761][799]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=191.414
+[2019.10.24-22.59.57:770][800]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=185.747
+[2019.10.24-22.59.57:778][801]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=180.075
+[2019.10.24-22.59.57:786][802]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=174.406
+[2019.10.24-22.59.57:795][803]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=168.739
+[2019.10.24-22.59.57:803][804]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=163.072
+[2019.10.24-22.59.57:811][805]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=157.406
+[2019.10.24-22.59.57:819][806]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=151.739
+[2019.10.24-22.59.57:828][807]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=146.073
+[2019.10.24-22.59.57:836][808]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=140.406
+[2019.10.24-22.59.57:844][809]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=134.739
+[2019.10.24-22.59.57:853][810]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=129.073
+[2019.10.24-22.59.57:861][811]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=123.406
+[2019.10.24-22.59.57:869][812]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=117.740
+[2019.10.24-22.59.57:878][813]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=112.073
+[2019.10.24-22.59.57:886][814]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=106.407
+[2019.10.24-22.59.57:894][815]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=100.740
+[2019.10.24-22.59.57:903][816]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=95.074
+[2019.10.24-22.59.57:911][817]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=89.385
+[2019.10.24-22.59.57:920][818]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=83.719
+[2019.10.24-22.59.57:928][819]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=78.052
+[2019.10.24-22.59.57:936][820]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=72.385
+[2019.10.24-22.59.57:944][821]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=66.719
+[2019.10.24-22.59.57:952][822]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=61.052
+[2019.10.24-22.59.57:960][823]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=55.386
+[2019.10.24-22.59.57:969][824]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=49.720
+[2019.10.24-22.59.57:977][825]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=44.053
+[2019.10.24-22.59.57:985][826]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=38.387
+[2019.10.24-22.59.57:994][827]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=32.720
+[2019.10.24-22.59.58:002][828]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=27.053
+[2019.10.24-22.59.58:010][829]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=21.387
+[2019.10.24-22.59.58:019][830]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=15.721
+[2019.10.24-22.59.58:027][831]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=10.054
+[2019.10.24-22.59.58:035][832]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=4.387
+[2019.10.24-22.59.58:044][833]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-1.279
+[2019.10.24-22.59.58:052][834]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-6.946
+[2019.10.24-22.59.58:061][835]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-12.613
+[2019.10.24-22.59.58:069][836]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-18.279
+[2019.10.24-22.59.58:077][837]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-23.946
+[2019.10.24-22.59.58:086][838]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-29.612
+[2019.10.24-22.59.58:094][839]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-35.279
+[2019.10.24-22.59.58:102][840]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-40.946
+[2019.10.24-22.59.58:111][841]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-46.612
+[2019.10.24-22.59.58:119][842]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-52.279
+[2019.10.24-22.59.58:127][843]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-57.945
+[2019.10.24-22.59.58:136][844]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-63.612
+[2019.10.24-22.59.58:144][845]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-69.286
+[2019.10.24-22.59.58:153][846]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-74.952
+[2019.10.24-22.59.58:161][847]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-80.618
+[2019.10.24-22.59.58:169][848]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-86.285
+[2019.10.24-22.59.58:178][849]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-91.951
+[2019.10.24-22.59.58:186][850]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-97.618
+[2019.10.24-22.59.58:194][851]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-103.284
+[2019.10.24-22.59.58:203][852]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-108.951
+[2019.10.24-22.59.58:212][853]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-114.617
+[2019.10.24-22.59.58:219][854]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-120.284
+[2019.10.24-22.59.58:228][855]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-125.950
+[2019.10.24-22.59.58:236][856]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-131.617
+[2019.10.24-22.59.58:245][857]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-137.284
+[2019.10.24-22.59.58:253][858]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-142.950
+[2019.10.24-22.59.58:261][859]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-148.636
+[2019.10.24-22.59.58:270][860]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-154.303
+[2019.10.24-22.59.58:278][861]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-159.969
+[2019.10.24-22.59.58:286][862]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-165.636
+[2019.10.24-22.59.58:295][863]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-171.302
+[2019.10.24-22.59.58:303][864]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-176.969
+[2019.10.24-22.59.58:310][865]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-182.635
+[2019.10.24-22.59.58:319][866]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-188.302
+[2019.10.24-22.59.58:327][867]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-193.968
+[2019.10.24-22.59.58:336][868]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-199.635
+[2019.10.24-22.59.58:344][869]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-205.301
+[2019.10.24-22.59.58:352][870]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-210.967
+[2019.10.24-22.59.58:361][871]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-216.634
+[2019.10.24-22.59.58:369][872]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-222.300
+[2019.10.24-22.59.58:377][873]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-227.971
+[2019.10.24-22.59.58:386][874]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-233.638
+[2019.10.24-22.59.58:394][875]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-239.304
+[2019.10.24-22.59.58:403][876]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-244.970
+[2019.10.24-22.59.58:411][877]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-250.641
+[2019.10.24-22.59.58:419][878]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-256.307
+[2019.10.24-22.59.58:427][879]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-261.974
+[2019.10.24-22.59.58:436][880]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-267.640
+[2019.10.24-22.59.58:444][881]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-273.307
+[2019.10.24-22.59.58:453][882]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-278.973
+[2019.10.24-22.59.58:461][883]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-284.640
+[2019.10.24-22.59.58:469][884]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-290.306
+[2019.10.24-22.59.58:477][885]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-295.973
+[2019.10.24-22.59.58:486][886]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-301.512
+[2019.10.24-23.00.03:329][467]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2019.10.24-23.00.03:330][467]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave KeyNoise1...
+[2019.10.24-23.00.03:343][467]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 151716 while cooking SoundWave /Game/Audio/KeyNoise1.KeyNoise1.
+[2019.10.24-23.00.08:369][ 70]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-23.00.08:369][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-23.00.08:369][ 70]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-23.00.08:378][ 70]LogSlate: Window 'GardenProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.24-23.00.08:383][ 70]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-23.00.08:392][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-23.00.08:392][ 70]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-23.00.08:442][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   6.53ms
+[2019.10.24-23.00.08:481][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.10.24-23.00.16:245][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.00.20:290][459]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Audio/WaterGun.WaterGun
+[2019.10.24-23.01.19:084][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/WaterGun" FILE="../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Audio/WaterGun.uasset" SILENT=true
+[2019.10.24-23.01.19:089][495]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/WaterGun9B48894D41056BB97B36428FCB16BB02.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Audio/WaterGun.uasset'
+[2019.10.24-23.01.20:240][629]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.24-23.01.20:248][629]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-23.01.20:248][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-23.01.20:248][629]PIE: New page: PIE session: FirstPersonExampleMap (Oct 24, 2019, 3:01:20 PM)
+[2019.10.24-23.01.20:248][629]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-23.01.20:283][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034622s)
+[2019.10.24-23.01.20:284][629]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.24-23.01.20:284][629]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2019.10.24-23.01.20:284][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.035809s)
+[2019.10.24-23.01.20:316][629]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2019.10.24-23.01.20:351][629]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-23.01.20:364][629]LogInit: FAudioDevice initialized.
+[2019.10.24-23.01.20:371][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-23.01.20:371][629]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-23.01.20:378][629]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.24-19.01.20
+[2019.10.24-23.01.20:378][629]LogWorld: Bringing up level for play took: 0.006596
+[2019.10.24-23.01.20:379][629]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.10.24-23.01.20:380][629]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.24-23.01.20:383][629]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.175
+[2019.10.24-23.01.20:383][629]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-23.01.21:118][710]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave WaterGun...
+[2019.10.24-23.01.23:365][962]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-23.01.23:365][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-23.01.23:365][962]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-23.01.23:374][962]LogSlate: Window 'GardenProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.24-23.01.23:380][962]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-23.01.23:387][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-23.01.23:387][962]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-23.01.23:432][962]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2019.10.24-23.01.23:467][965]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.10.24-23.01.30:843][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/WaterGun" FILE="../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Audio/WaterGun.uasset" SILENT=true
+[2019.10.24-23.01.30:854][848]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/WaterGunDA60E86749823B2DF08B89ADC166DD61.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Audio/WaterGun.uasset'
+[2019.10.24-23.01.31:775][954]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.24-23.01.31:783][954]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-23.01.31:783][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-23.01.31:783][954]PIE: New page: PIE session: FirstPersonExampleMap (Oct 24, 2019, 3:01:31 PM)
+[2019.10.24-23.01.31:784][954]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-23.01.31:816][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032370s)
+[2019.10.24-23.01.31:817][954]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.24-23.01.31:817][954]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2019.10.24-23.01.31:817][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.033357s)
+[2019.10.24-23.01.31:848][954]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2019.10.24-23.01.31:883][954]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-23.01.31:895][954]LogInit: FAudioDevice initialized.
+[2019.10.24-23.01.31:903][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-23.01.31:903][954]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-23.01.31:909][954]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.24-19.01.31
+[2019.10.24-23.01.31:910][954]LogWorld: Bringing up level for play took: 0.006482
+[2019.10.24-23.01.31:910][954]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2019.10.24-23.01.31:911][954]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.24-23.01.31:914][954]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.644
+[2019.10.24-23.01.31:914][954]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-23.01.42:170][175]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=372.764
+[2019.10.24-23.01.42:178][176]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=365.498
+[2019.10.24-23.01.42:185][177]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=359.831
+[2019.10.24-23.01.42:194][178]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=354.165
+[2019.10.24-23.01.42:202][179]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=348.499
+[2019.10.24-23.01.42:211][180]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=342.832
+[2019.10.24-23.01.42:219][181]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=337.165
+[2019.10.24-23.01.42:228][182]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=331.499
+[2019.10.24-23.01.42:236][183]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=325.832
+[2019.10.24-23.01.42:244][184]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=320.166
+[2019.10.24-23.01.42:252][185]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=314.499
+[2019.10.24-23.01.42:261][186]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=308.827
+[2019.10.24-23.01.42:269][187]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=303.160
+[2019.10.24-23.01.42:278][188]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=297.494
+[2019.10.24-23.01.42:287][189]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=291.202
+[2019.10.24-23.01.42:295][190]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=285.536
+[2019.10.24-23.01.42:304][191]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=279.731
+[2019.10.24-23.01.42:312][192]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=274.065
+[2019.10.24-23.01.42:321][193]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=268.343
+[2019.10.24-23.01.42:329][194]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=262.677
+[2019.10.24-23.01.42:337][195]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=257.003
+[2019.10.24-23.01.42:346][196]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=251.270
+[2019.10.24-23.01.42:355][197]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=245.604
+[2019.10.24-23.01.42:364][198]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=239.762
+[2019.10.24-23.01.42:372][199]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=233.498
+[2019.10.24-23.01.42:381][200]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=227.475
+[2019.10.24-23.01.42:390][201]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=221.574
+[2019.10.24-23.01.42:399][202]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=215.421
+[2019.10.24-23.01.42:408][203]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=209.754
+[2019.10.24-23.01.42:416][204]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=203.790
+[2019.10.24-23.01.42:425][205]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=198.051
+[2019.10.24-23.01.42:433][206]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=192.291
+[2019.10.24-23.01.42:442][207]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=186.542
+[2019.10.24-23.01.42:449][208]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=180.678
+[2019.10.24-23.01.42:458][209]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=175.011
+[2019.10.24-23.01.42:466][210]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=168.867
+[2019.10.24-23.01.42:475][211]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=163.022
+[2019.10.24-23.01.42:484][212]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=157.355
+[2019.10.24-23.01.42:493][213]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=150.793
+[2019.10.24-23.01.42:501][214]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=145.069
+[2019.10.24-23.01.42:510][215]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=139.154
+[2019.10.24-23.01.42:519][216]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=133.034
+[2019.10.24-23.01.42:528][217]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=127.109
+[2019.10.24-23.01.42:536][218]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=121.428
+[2019.10.24-23.01.42:545][219]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=115.574
+[2019.10.24-23.01.42:554][220]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=109.681
+[2019.10.24-23.01.42:563][221]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=103.616
+[2019.10.24-23.01.42:571][222]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=97.869
+[2019.10.24-23.01.42:580][223]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=92.202
+[2019.10.24-23.01.42:588][224]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=86.536
+[2019.10.24-23.01.42:596][225]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=80.869
+[2019.10.24-23.01.42:605][226]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=75.203
+[2019.10.24-23.01.42:613][227]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=69.536
+[2019.10.24-23.01.42:621][228]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=63.824
+[2019.10.24-23.01.42:630][229]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=58.157
+[2019.10.24-23.01.42:638][230]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=52.484
+[2019.10.24-23.01.42:646][231]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=46.818
+[2019.10.24-23.01.42:655][232]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=41.151
+[2019.10.24-23.01.42:663][233]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=35.242
+[2019.10.24-23.01.42:672][234]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=29.576
+[2019.10.24-23.01.42:680][235]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=23.908
+[2019.10.24-23.01.42:688][236]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=18.242
+[2019.10.24-23.01.42:697][237]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=12.575
+[2019.10.24-23.01.42:705][238]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=6.908
+[2019.10.24-23.01.42:714][239]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=1.242
+[2019.10.24-23.01.42:722][240]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-4.424
+[2019.10.24-23.01.42:730][241]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-10.190
+[2019.10.24-23.01.42:739][242]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-15.857
+[2019.10.24-23.01.42:747][243]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-21.523
+[2019.10.24-23.01.42:756][244]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-27.190
+[2019.10.24-23.01.42:764][245]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-32.879
+[2019.10.24-23.01.42:772][246]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-38.581
+[2019.10.24-23.01.42:780][247]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-44.283
+[2019.10.24-23.01.42:789][248]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-50.176
+[2019.10.24-23.01.42:798][249]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-55.843
+[2019.10.24-23.01.42:806][250]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-61.509
+[2019.10.24-23.01.42:814][251]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-67.176
+[2019.10.24-23.01.42:823][252]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-73.030
+[2019.10.24-23.01.42:831][253]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-78.704
+[2019.10.24-23.01.42:840][254]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-84.371
+[2019.10.24-23.01.42:848][255]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-90.038
+[2019.10.24-23.01.42:856][256]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-95.704
+[2019.10.24-23.01.42:865][257]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-101.370
+[2019.10.24-23.01.42:873][258]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-107.037
+[2019.10.24-23.01.42:880][259]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-112.703
+[2019.10.24-23.01.42:889][260]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-118.370
+[2019.10.24-23.01.42:897][261]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-124.044
+[2019.10.24-23.01.42:905][262]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-129.711
+[2019.10.24-23.01.42:914][263]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-135.378
+[2019.10.24-23.01.42:922][264]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-141.049
+[2019.10.24-23.01.42:931][265]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-146.716
+[2019.10.24-23.01.42:939][266]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-152.389
+[2019.10.24-23.01.42:948][267]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-158.056
+[2019.10.24-23.01.42:956][268]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-163.722
+[2019.10.24-23.01.42:964][269]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-169.427
+[2019.10.24-23.01.42:973][270]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-175.093
+[2019.10.24-23.01.42:981][271]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-180.760
+[2019.10.24-23.01.42:991][272]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-186.700
+[2019.10.24-23.01.42:999][273]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-192.978
+[2019.10.24-23.01.43:008][274]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-198.682
+[2019.10.24-23.01.43:016][275]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-204.349
+[2019.10.24-23.01.43:024][276]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-210.312
+[2019.10.24-23.01.43:033][277]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-215.979
+[2019.10.24-23.01.43:041][278]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-221.646
+[2019.10.24-23.01.43:050][279]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-227.771
+[2019.10.24-23.01.43:060][280]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-234.289
+[2019.10.24-23.01.43:068][281]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-239.955
+[2019.10.24-23.01.43:077][282]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-245.873
+[2019.10.24-23.01.43:085][283]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-251.619
+[2019.10.24-23.01.43:095][284]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-257.898
+[2019.10.24-23.01.43:103][285]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-263.564
+[2019.10.24-23.01.43:111][286]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-269.377
+[2019.10.24-23.01.43:120][287]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-275.043
+[2019.10.24-23.01.43:128][288]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-280.823
+[2019.10.24-23.01.43:137][289]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-286.489
+[2019.10.24-23.01.43:146][290]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-292.346
+[2019.10.24-23.01.43:154][291]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-298.393
+[2019.10.24-23.01.43:163][292]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-301.512
+[2019.10.24-23.01.48:876][974]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2019.10.24-23.01.50:361][152]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-23.01.50:361][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-23.01.50:361][152]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-23.01.50:370][152]LogSlate: Window 'GardenProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.24-23.01.50:375][152]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-23.01.50:382][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-23.01.50:382][152]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-23.01.50:430][152]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2019.10.24-23.01.50:460][154]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.10.24-23.01.51:887][325]LogSlate: Window 'WaterGun' being destroyed
+[2019.10.24-23.01.51:892][325]LogSlate: Window 'WaterGun' being destroyed
+[2019.10.24-23.01.54:697][659]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Audio/LBP_RadioSong.LBP_RadioSong
+[2019.10.24-23.02.04:454][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/LBP_RadioSong" FILE="../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Audio/LBP_RadioSong.uasset" SILENT=true
+[2019.10.24-23.02.04:633][812]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/LBP_RadioSong266A5BC44CFA594139288EAB6355495D.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Audio/LBP_RadioSong.uasset'
+[2019.10.24-23.02.05:599][920]LogSlate: Window 'LBP_RadioSong' being destroyed
+[2019.10.24-23.02.05:604][920]LogSlate: Window 'LBP_RadioSong' being destroyed
+[2019.10.24-23.02.09:048][330]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Audio/BackGroundTree.BackGroundTree
+[2019.10.24-23.02.17:507][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/BackGroundTree" FILE="../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Audio/BackGroundTree.uasset" SILENT=true
+[2019.10.24-23.02.17:874][321]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/BackGroundTree77ED3C2A4F4BC80648A652B5E7ABEE7D.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Audio/BackGroundTree.uasset'
+[2019.10.24-23.02.18:591][398]LogSlate: Window 'BackGroundTree' being destroyed
+[2019.10.24-23.02.18:595][398]LogSlate: Window 'BackGroundTree' being destroyed
+[2019.10.24-23.02.32:771][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.02.32:829][ 77]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.24-23.02.32:838][ 77]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-23.02.32:838][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-23.02.32:838][ 77]PIE: New page: PIE session: FirstPersonExampleMap (Oct 24, 2019, 3:02:32 PM)
+[2019.10.24-23.02.32:838][ 77]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-23.02.32:872][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033718s)
+[2019.10.24-23.02.32:873][ 77]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.24-23.02.32:873][ 77]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2019.10.24-23.02.32:873][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.034711s)
+[2019.10.24-23.02.32:905][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2019.10.24-23.02.32:938][ 77]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-23.02.32:951][ 77]LogInit: FAudioDevice initialized.
+[2019.10.24-23.02.32:959][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-23.02.32:959][ 77]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-23.02.32:964][ 77]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.24-19.02.32
+[2019.10.24-23.02.32:966][ 77]LogWorld: Bringing up level for play took: 0.006345
+[2019.10.24-23.02.32:966][ 77]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.10.24-23.02.32:967][ 77]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.24-23.02.32:970][ 77]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.414
+[2019.10.24-23.02.32:970][ 77]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-23.02.32:992][ 77]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave BackGroundTree...
+[2019.10.24-23.02.38:575][ 77]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 72476500 while cooking SoundWave /Game/Audio/BackGroundTree.BackGroundTree.
+[2019.10.24-23.03.05:803][335]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=372.764
+[2019.10.24-23.03.05:811][336]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=367.097
+[2019.10.24-23.03.05:819][337]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=361.430
+[2019.10.24-23.03.05:828][338]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=355.764
+[2019.10.24-23.03.05:836][339]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=350.098
+[2019.10.24-23.03.05:844][340]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=344.431
+[2019.10.24-23.03.05:853][341]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=338.765
+[2019.10.24-23.03.05:861][342]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=333.099
+[2019.10.24-23.03.05:870][343]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=327.432
+[2019.10.24-23.03.05:878][344]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=321.765
+[2019.10.24-23.03.05:886][345]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=316.099
+[2019.10.24-23.03.05:895][346]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=310.432
+[2019.10.24-23.03.05:903][347]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=304.766
+[2019.10.24-23.03.05:911][348]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=299.100
+[2019.10.24-23.03.05:920][349]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=293.433
+[2019.10.24-23.03.05:928][350]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=287.767
+[2019.10.24-23.03.05:936][351]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=282.101
+[2019.10.24-23.03.05:945][352]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=276.427
+[2019.10.24-23.03.05:953][353]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=270.760
+[2019.10.24-23.03.05:961][354]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=265.094
+[2019.10.24-23.03.05:970][355]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=259.427
+[2019.10.24-23.03.05:977][356]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=253.761
+[2019.10.24-23.03.05:986][357]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=248.095
+[2019.10.24-23.03.05:994][358]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=242.428
+[2019.10.24-23.03.06:002][359]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=236.762
+[2019.10.24-23.03.06:011][360]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=231.094
+[2019.10.24-23.03.06:019][361]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=225.428
+[2019.10.24-23.03.06:027][362]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=219.762
+[2019.10.24-23.03.06:036][363]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=214.095
+[2019.10.24-23.03.06:045][364]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=208.429
+[2019.10.24-23.03.06:053][365]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=202.762
+[2019.10.24-23.03.06:061][366]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=197.096
+[2019.10.24-23.03.06:069][367]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=191.429
+[2019.10.24-23.03.06:078][368]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=185.763
+[2019.10.24-23.03.06:086][369]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=180.096
+[2019.10.24-23.03.06:095][370]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=174.429
+[2019.10.24-23.03.06:103][371]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=168.757
+[2019.10.24-23.03.06:111][372]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=163.091
+[2019.10.24-23.03.06:119][373]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=157.424
+[2019.10.24-23.03.06:128][374]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=151.758
+[2019.10.24-23.03.06:137][375]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=146.085
+[2019.10.24-23.03.06:145][376]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=140.418
+[2019.10.24-23.03.06:153][377]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=134.742
+[2019.10.24-23.03.06:161][378]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=129.076
+[2019.10.24-23.03.06:170][379]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=123.409
+[2019.10.24-23.03.06:178][380]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=117.743
+[2019.10.24-23.03.06:187][381]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=112.076
+[2019.10.24-23.03.06:195][382]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=106.410
+[2019.10.24-23.03.06:203][383]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=100.743
+[2019.10.24-23.03.06:212][384]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=95.077
+[2019.10.24-23.03.06:220][385]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=89.410
+[2019.10.24-23.03.06:228][386]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=83.744
+[2019.10.24-23.03.06:237][387]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=78.077
+[2019.10.24-23.03.06:244][388]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=72.411
+[2019.10.24-23.03.06:253][389]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=66.745
+[2019.10.24-23.03.06:261][390]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=61.078
+[2019.10.24-23.03.06:269][391]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=55.412
+[2019.10.24-23.03.06:278][392]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=49.745
+[2019.10.24-23.03.06:286][393]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=44.079
+[2019.10.24-23.03.06:295][394]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=38.412
+[2019.10.24-23.03.06:303][395]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=32.746
+[2019.10.24-23.03.06:312][396]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=27.079
+[2019.10.24-23.03.06:320][397]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=21.413
+[2019.10.24-23.03.06:328][398]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=15.746
+[2019.10.24-23.03.06:336][399]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=10.080
+[2019.10.24-23.03.06:345][400]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=4.413
+[2019.10.24-23.03.06:353][401]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-1.253
+[2019.10.24-23.03.06:361][402]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-6.920
+[2019.10.24-23.03.06:370][403]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-12.586
+[2019.10.24-23.03.06:378][404]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-18.253
+[2019.10.24-23.03.06:386][405]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-23.919
+[2019.10.24-23.03.06:395][406]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-29.586
+[2019.10.24-23.03.06:403][407]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-35.252
+[2019.10.24-23.03.06:411][408]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-40.919
+[2019.10.24-23.03.06:420][409]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-46.585
+[2019.10.24-23.03.06:428][410]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-52.252
+[2019.10.24-23.03.06:437][411]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-57.918
+[2019.10.24-23.03.06:444][412]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-63.585
+[2019.10.24-23.03.06:453][413]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-69.251
+[2019.10.24-23.03.06:461][414]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-74.918
+[2019.10.24-23.03.06:469][415]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-80.585
+[2019.10.24-23.03.06:478][416]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-86.251
+[2019.10.24-23.03.06:486][417]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-91.917
+[2019.10.24-23.03.06:494][418]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-97.584
+[2019.10.24-23.03.06:503][419]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-103.250
+[2019.10.24-23.03.06:511][420]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-108.916
+[2019.10.24-23.03.06:520][421]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-114.583
+[2019.10.24-23.03.06:528][422]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-120.249
+[2019.10.24-23.03.06:536][423]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-125.916
+[2019.10.24-23.03.06:545][424]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-131.582
+[2019.10.24-23.03.06:554][425]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-137.249
+[2019.10.24-23.03.06:562][426]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-143.129
+[2019.10.24-23.03.06:570][427]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-148.795
+[2019.10.24-23.03.06:579][428]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-154.462
+[2019.10.24-23.03.06:587][429]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-160.135
+[2019.10.24-23.03.06:595][430]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-165.801
+[2019.10.24-23.03.06:604][431]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-171.467
+[2019.10.24-23.03.06:612][432]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-177.134
+[2019.10.24-23.03.06:620][433]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-182.800
+[2019.10.24-23.03.06:628][434]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-188.467
+[2019.10.24-23.03.06:636][435]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-194.133
+[2019.10.24-23.03.06:645][436]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-199.800
+[2019.10.24-23.03.06:653][437]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-205.466
+[2019.10.24-23.03.06:661][438]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-211.136
+[2019.10.24-23.03.06:670][439]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-216.802
+[2019.10.24-23.03.06:678][440]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-222.469
+[2019.10.24-23.03.06:686][441]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-228.135
+[2019.10.24-23.03.06:695][442]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-233.802
+[2019.10.24-23.03.06:703][443]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-239.468
+[2019.10.24-23.03.06:711][444]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-245.134
+[2019.10.24-23.03.06:720][445]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-250.801
+[2019.10.24-23.03.06:728][446]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-256.467
+[2019.10.24-23.03.06:736][447]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-262.134
+[2019.10.24-23.03.06:745][448]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-267.800
+[2019.10.24-23.03.06:753][449]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-273.466
+[2019.10.24-23.03.06:762][450]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-279.133
+[2019.10.24-23.03.06:770][451]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-284.800
+[2019.10.24-23.03.06:778][452]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-290.466
+[2019.10.24-23.03.06:787][453]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-296.133
+[2019.10.24-23.03.06:795][454]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-301.512
+[2019.10.24-23.03.12:213][104]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2019.10.24-23.03.14:971][435]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-23.03.14:972][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-23.03.14:972][435]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-23.03.14:980][435]LogSlate: Window 'GardenProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.24-23.03.14:986][435]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-23.03.14:995][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-23.03.14:996][435]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-23.03.15:045][435]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2019.10.24-23.03.15:085][437]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.10.24-23.03.30:837][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.03.38:058][171]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/Audio/LBP_RadioSong.LBP_RadioSong
+[2019.10.24-23.03.47:150][243]LogSlate: Window 'LBP_RadioSong' being destroyed
+[2019.10.24-23.03.47:155][243]LogSlate: Window 'LBP_RadioSong' being destroyed
+[2019.10.24-23.03.51:970][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.10.24-23.03.53:418][814]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.24-23.03.53:489][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.10.24-23.03.53:519][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.10.24-23.03.53:546][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.10.24-23.03.59:418][509]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Hit_Flower.Hit_Flower
+[2019.10.24-23.04.39:148][747]BlueprintLog: New page: Compile Hit_Flower
+[2019.10.24-23.04.39:328][747]LogUObjectHash: Compacting FUObjectHashTables data took   7.53ms
+[2019.10.24-23.04.41:091][930]LogSlate: Window 'Hit_Flower' being destroyed
+[2019.10.24-23.04.41:096][930]LogSlate: Window 'Hit_Flower' being destroyed
+[2019.10.24-23.04.41:097][930]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-23.04.42:885][138]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.24-23.04.42:894][138]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-23.04.42:894][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-23.04.42:894][138]PIE: New page: PIE session: FirstPersonExampleMap (Oct 24, 2019, 3:04:42 PM)
+[2019.10.24-23.04.42:894][138]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-23.04.42:928][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034133s)
+[2019.10.24-23.04.42:929][138]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.24-23.04.42:929][138]LogPlayLevel: PIE: World Init took: (0.001141s)
+[2019.10.24-23.04.42:929][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.035420s)
+[2019.10.24-23.04.42:965][138]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2019.10.24-23.04.42:999][138]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-23.04.43:012][138]LogInit: FAudioDevice initialized.
+[2019.10.24-23.04.43:020][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-23.04.43:020][138]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-23.04.43:025][138]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.24-19.04.43
+[2019.10.24-23.04.43:026][138]LogWorld: Bringing up level for play took: 0.005361
+[2019.10.24-23.04.43:026][138]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.10.24-23.04.43:028][138]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.24-23.04.43:031][138]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.477
+[2019.10.24-23.04.43:031][138]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-23.04.54:805][547]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=372.763
+[2019.10.24-23.04.54:806][547]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave GrowSound...
+[2019.10.24-23.04.54:930][547]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 80640 while cooking SoundWave /Game/Audio/GrowSound.GrowSound.
+[2019.10.24-23.04.54:937][548]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=283.288
+[2019.10.24-23.04.54:945][549]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=277.621
+[2019.10.24-23.04.54:953][550]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=271.954
+[2019.10.24-23.04.54:961][551]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=266.288
+[2019.10.24-23.04.54:970][552]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=260.621
+[2019.10.24-23.04.54:978][553]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=254.955
+[2019.10.24-23.04.54:987][554]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=249.281
+[2019.10.24-23.04.54:995][555]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=243.615
+[2019.10.24-23.04.55:003][556]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=237.948
+[2019.10.24-23.04.55:012][557]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=232.282
+[2019.10.24-23.04.55:020][558]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=226.615
+[2019.10.24-23.04.55:027][559]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=220.949
+[2019.10.24-23.04.55:036][560]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=215.282
+[2019.10.24-23.04.55:044][561]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=209.615
+[2019.10.24-23.04.55:052][562]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=203.949
+[2019.10.24-23.04.55:061][563]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=198.283
+[2019.10.24-23.04.55:069][564]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=192.616
+[2019.10.24-23.04.55:077][565]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=186.950
+[2019.10.24-23.04.55:086][566]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=181.283
+[2019.10.24-23.04.55:094][567]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=175.617
+[2019.10.24-23.04.55:103][568]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=169.945
+[2019.10.24-23.04.55:111][569]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=164.278
+[2019.10.24-23.04.55:119][570]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=158.611
+[2019.10.24-23.04.55:128][571]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=152.945
+[2019.10.24-23.04.55:136][572]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=147.278
+[2019.10.24-23.04.55:144][573]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=141.611
+[2019.10.24-23.04.55:153][574]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=135.945
+[2019.10.24-23.04.55:161][575]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=130.278
+[2019.10.24-23.04.55:169][576]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=124.612
+[2019.10.24-23.04.55:178][577]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=118.946
+[2019.10.24-23.04.55:186][578]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=113.279
+[2019.10.24-23.04.55:195][579]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=107.613
+[2019.10.24-23.04.55:203][580]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=101.946
+[2019.10.24-23.04.55:211][581]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=96.280
+[2019.10.24-23.04.55:220][582]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=90.614
+[2019.10.24-23.04.55:228][583]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=84.947
+[2019.10.24-23.04.55:236][584]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=79.280
+[2019.10.24-23.04.55:245][585]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=73.614
+[2019.10.24-23.04.55:253][586]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=67.947
+[2019.10.24-23.04.55:261][587]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=62.281
+[2019.10.24-23.04.55:270][588]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=56.615
+[2019.10.24-23.04.55:278][589]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=50.948
+[2019.10.24-23.04.55:286][590]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=45.282
+[2019.10.24-23.04.55:295][591]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=39.615
+[2019.10.24-23.04.55:303][592]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=33.948
+[2019.10.24-23.04.55:311][593]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=28.282
+[2019.10.24-23.04.55:320][594]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=22.615
+[2019.10.24-23.04.55:328][595]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=16.949
+[2019.10.24-23.04.55:336][596]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=11.282
+[2019.10.24-23.04.55:345][597]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=5.616
+[2019.10.24-23.04.55:353][598]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-0.051
+[2019.10.24-23.04.55:362][599]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-5.721
+[2019.10.24-23.04.55:370][600]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-11.388
+[2019.10.24-23.04.55:378][601]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-17.054
+[2019.10.24-23.04.55:387][602]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-22.721
+[2019.10.24-23.04.55:395][603]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-28.387
+[2019.10.24-23.04.55:402][604]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-34.054
+[2019.10.24-23.04.55:411][605]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-39.720
+[2019.10.24-23.04.55:419][606]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-45.387
+[2019.10.24-23.04.55:428][607]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-51.053
+[2019.10.24-23.04.55:436][608]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-56.720
+[2019.10.24-23.04.55:444][609]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-62.386
+[2019.10.24-23.04.55:453][610]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-68.053
+[2019.10.24-23.04.55:461][611]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-73.722
+[2019.10.24-23.04.55:469][612]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-79.388
+[2019.10.24-23.04.55:478][613]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-85.055
+[2019.10.24-23.04.55:486][614]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-90.729
+[2019.10.24-23.04.55:495][615]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-96.396
+[2019.10.24-23.04.55:503][616]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-102.062
+[2019.10.24-23.04.55:511][617]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-107.729
+[2019.10.24-23.04.55:520][618]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-113.395
+[2019.10.24-23.04.55:528][619]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-119.062
+[2019.10.24-23.04.55:536][620]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-124.728
+[2019.10.24-23.04.55:545][621]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-130.395
+[2019.10.24-23.04.55:553][622]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-136.061
+[2019.10.24-23.04.55:561][623]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-141.728
+[2019.10.24-23.04.55:570][624]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-147.394
+[2019.10.24-23.04.55:578][625]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-153.061
+[2019.10.24-23.04.55:587][626]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-158.727
+[2019.10.24-23.04.55:595][627]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-164.394
+[2019.10.24-23.04.55:603][628]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-170.060
+[2019.10.24-23.04.55:612][629]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-175.726
+[2019.10.24-23.04.55:620][630]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-181.393
+[2019.10.24-23.04.55:628][631]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-187.059
+[2019.10.24-23.04.55:637][632]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-192.726
+[2019.10.24-23.04.55:645][633]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-198.392
+[2019.10.24-23.04.55:653][634]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-204.059
+[2019.10.24-23.04.55:662][635]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-209.765
+[2019.10.24-23.04.55:670][636]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-215.933
+[2019.10.24-23.04.55:678][637]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-221.600
+[2019.10.24-23.04.55:687][638]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-227.266
+[2019.10.24-23.04.55:695][639]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-232.933
+[2019.10.24-23.04.55:703][640]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-238.599
+[2019.10.24-23.04.55:712][641]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-244.266
+[2019.10.24-23.04.55:720][642]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-249.932
+[2019.10.24-23.04.55:728][643]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-255.599
+[2019.10.24-23.04.55:737][644]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-261.265
+[2019.10.24-23.04.55:745][645]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-266.932
+[2019.10.24-23.04.55:753][646]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-272.599
+[2019.10.24-23.04.55:762][647]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-278.265
+[2019.10.24-23.04.55:770][648]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-283.932
+[2019.10.24-23.04.55:778][649]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-289.598
+[2019.10.24-23.04.55:787][650]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-295.265
+[2019.10.24-23.04.55:795][651]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-300.931
+[2019.10.24-23.04.55:804][652]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-301.512
+[2019.10.24-23.04.57:962][911]LogBlueprintUserMessages: [Secret_Door_2] X=-26.000 Y=1442.000 Z=-301.512
+[2019.10.24-23.05.04:013][637]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2019.10.24-23.05.14:231][863]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:238][864]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:247][865]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:255][866]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:263][867]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:272][868]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:281][869]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:289][870]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:297][871]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:305][872]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:314][873]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:322][874]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:331][875]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:339][876]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:347][877]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:356][878]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:364][879]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:372][880]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:381][881]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:389][882]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:397][883]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:406][884]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:414][885]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:423][886]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:431][887]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:440][888]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:447][889]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:455][890]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:463][891]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:472][892]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:480][893]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:488][894]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:497][895]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:505][896]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:513][897]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:522][898]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:530][899]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:538][900]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:547][901]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:555][902]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:563][903]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:572][904]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:580][905]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:588][906]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:597][907]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:605][908]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:614][909]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:622][910]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:630][911]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:639][912]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:647][913]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:655][914]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:664][915]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:672][916]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:680][917]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:689][918]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:697][919]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:706][920]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:714][921]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:722][922]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:731][923]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:739][924]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:747][925]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:756][926]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:764][927]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:772][928]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:781][929]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:789][930]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:798][931]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:806][932]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:815][933]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:823][934]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:830][935]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:838][936]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:847][937]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:855][938]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:863][939]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:872][940]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:880][941]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:888][942]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:897][943]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:905][944]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:913][945]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:922][946]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:930][947]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:939][948]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:947][949]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:955][950]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:964][951]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:972][952]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:980][953]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:989][954]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.14:997][955]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:006][956]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:014][957]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:022][958]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:031][959]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:039][960]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:047][961]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:055][962]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:064][963]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:072][964]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:080][965]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:089][966]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:097][967]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:106][968]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:114][969]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:122][970]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:131][971]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:139][972]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:147][973]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:156][974]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:164][975]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:173][976]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:181][977]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:190][978]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:197][979]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:205][980]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:213][981]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.15:222][982]LogBlueprintUserMessages: [Secret_Door2_2] X=0.000 Y=0.000 Z=0.000
+[2019.10.24-23.05.29:866][736]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2019.10.24-23.05.35:209][377]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-23.05.35:209][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-23.05.35:209][377]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-23.05.35:218][377]LogSlate: Window 'GardenProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.24-23.05.35:223][377]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-23.05.35:235][377]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-23.05.35:235][377]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-23.05.35:283][377]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2019.10.24-23.05.35:309][379]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.10.24-23.05.40:573][  9]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-23.05.40:574][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-23.05.40:574][  9]PIE: New page: SIE session: FirstPersonExampleMap (Oct 24, 2019, 3:05:40 PM)
+[2019.10.24-23.05.40:574][  9]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-23.05.40:609][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034727s)
+[2019.10.24-23.05.40:609][  9]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.24-23.05.40:610][  9]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2019.10.24-23.05.40:610][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.035793s)
+[2019.10.24-23.05.40:642][  9]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2019.10.24-23.05.40:685][  9]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-23.05.40:699][  9]LogInit: FAudioDevice initialized.
+[2019.10.24-23.05.40:710][  9]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-23.05.40:715][  9]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.24-19.05.40
+[2019.10.24-23.05.40:715][  9]LogWorld: Bringing up level for play took: 0.004036
+[2019.10.24-23.05.40:715][  9]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2019.10.24-23.05.40:717][  9]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.24-23.05.40:718][  9]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.164
+[2019.10.24-23.05.40:784][  9]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-23.05.46:054][624]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-23.05.46:054][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-23.05.46:054][624]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.24-23.05.46:056][624]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-23.05.46:063][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-23.05.46:063][624]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.24-23.05.46:102][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-23.05.46:109][624]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2019.10.24-23.05.46:160][629]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.10.24-23.05.48:216][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.10.24-23.05.48:548][871]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMap985110DA4889E789789E32B490254C84.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.24-23.05.48:930][871]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMap_BuiltData8862657B4356B5160A95738AC1600924.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.24-23.05.49:394][902]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2019.10.24-23.05.50:890][902]LogSlate: Window 'Save Content' being destroyed
+[2019.10.24-23.05.50:905][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/GrowSound" FILE="../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Audio/GrowSound.uasset" SILENT=true
+[2019.10.24-23.05.50:907][902]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/GrowSound2677CDEF4A2117535AFF98AE09D29C1A.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Audio/GrowSound.uasset'
+[2019.10.24-23.05.50:915][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/KeyNoise1" FILE="../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Audio/KeyNoise1.uasset" SILENT=true
+[2019.10.24-23.05.50:919][902]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/KeyNoise17007E3254D75296FAD65DCBB3CCB0CB9.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Audio/KeyNoise1.uasset'
+[2019.10.24-23.05.50:932][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Hit_Flower" FILE="../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Blueprints/Hit_Flower.uasset" SILENT=true
+[2019.10.24-23.05.50:957][902]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/Hit_FlowerDCAA3AF64CFC93AEBC1551B382E4EF5C.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Blueprints/Hit_Flower.uasset'
+[2019.10.24-23.05.50:970][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Keys" FILE="../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Blueprints/Keys.uasset" SILENT=true
+[2019.10.24-23.05.50:995][902]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/KeysE03A182F4F64D7EEFDEA24A86B105260.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Blueprints/Keys.uasset'
+[2019.10.24-23.05.51:118][902]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonCharacter68B7F56642F0D71232AAA9890939F427.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.24-23.05.51:142][902]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonProjectile726D755442CCE3F2FA05BEAA286F90F3.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2019.10.24-23.05.57:985][702]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2019.10.24-23.06.00:207][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2019.10.24-23.06.37:853][170]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.24-23.06.43:251][806]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Keys.Keys
+[2019.10.24-23.07.08:533][123]LogSlate: Window 'Keys' being destroyed
+[2019.10.24-23.07.08:539][123]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-23.07.09:822][266]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Hit_Flower.Hit_Flower
+[2019.10.24-23.07.13:115][549]LogSlate: Window 'Hit_Flower' being destroyed
+[2019.10.24-23.07.13:121][549]LogSlate: Window 'Hit_Flower' being destroyed
+[2019.10.24-23.07.13:122][549]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-23.07.14:060][650]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Bonk_Flower.Bonk_Flower
+[2019.10.24-23.07.33:361][612]BlueprintLog: New page: Compile Bonk_Flower
+[2019.10.24-23.07.33:826][612]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2019.10.24-23.07.34:655][693]LogSlate: Window 'Bonk_Flower' being destroyed
+[2019.10.24-23.07.34:659][693]LogSlate: Window 'Bonk_Flower' being destroyed
+[2019.10.24-23.07.34:660][693]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-23.07.42:120][562]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.24-23.07.45:097][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.08.39:469][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-23.08.44:168][679]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.24-23.09.00:750][646]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/EndLevel.EndLevel
+[2019.10.24-23.09.35:419][663]LogSlate: Window 'EndLevel' being destroyed
+[2019.10.24-23.09.35:423][663]LogSlate: Window 'EndLevel' being destroyed
+[2019.10.24-23.09.35:426][663]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-23.09.35:429][663]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2019.10.24-23.09.37:133][860]LogUObjectHash: Compacting FUObjectHashTables data took   7.77ms
+[2019.10.24-23.09.38:432][860]LogSlate: Window 'Save Content' being destroyed
+[2019.10.24-23.09.38:454][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bonk_Flower" FILE="../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Blueprints/Bonk_Flower.uasset" SILENT=true
+[2019.10.24-23.09.38:483][860]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/Bonk_FlowerC98951F2482BA0D318034AB72B13AC34.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Blueprints/Bonk_Flower.uasset'
+[2019.10.24-23.09.38:489][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/EndLevel" FILE="../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Widgets/EndLevel.uasset" SILENT=true
+[2019.10.24-23.09.38:494][860]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/EndLevel6B5921CF4383E2A00763629E2E3B2029.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/Widgets/EndLevel.uasset'
+[2019.10.24-23.09.39:554][977]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2019.10.24-23.09.39:880][977]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMap5FA5A66F433AE7610753C592874DC7C3.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.24-23.09.40:162][977]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMap_BuiltData16D8DB7B49825BCF2E0EC78F911A2B80.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.24-23.09.42:268][213]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2019.10.24-23.09.44:677][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.10.24-23.09.44:998][496]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMap88A952E8406E61327CE37996C243CB28.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.24-23.09.45:275][496]LogSavePackage: Moving '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Saved/FirstPersonExampleMap_BuiltData5A3D35C343F1670D022F05BBBD5E727C.tmp' to '../../../../../../Users/kpearso1/Documents/Unreal Projects/GardenProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
